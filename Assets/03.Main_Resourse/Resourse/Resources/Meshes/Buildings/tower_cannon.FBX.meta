@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: a89d1ef5cd874974aa595c021dcd1b5d
+timeCreated: 1431079086
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ' anti-aircraft gun_deposit002'
+    100002: ' anti-aircraft gun_deposit002 1'
+    100004: ' anti-aircraft gun_deposit003'
+    100006: ' anti-aircraft gun_ring 001'
+    100008: ' anti-aircraft gun_ring 006'
+    100010: ' anti-aircraft gun_ring 011'
+    100012: air_vent001
+    100014: air_vent002
+    100016: arch_door006
+    100018: arch_window002
+    100020: arch_window002 1
+    100022: arch_window003
+    100024: base_metal
+    100026: basket002
+    100028: bedrock009
+    100030: cannon
+    100032: cannon 1
+    100034: cannon 2
+    100036: cloth015
+    100038: cross015
+    100040: door009
+    100042: metre_big002
+    100044: motor
+    100046: piston001
+    100048: Plane001
+    100050: ramp004
+    100052: rotator
+    100054: shield005
+    100056: Sphere006
+    100058: Sphere007
+    100060: Sphere008
+    100062: Sphere009
+    100064: Sphere010
+    100066: //RootNode
+    100068: tube
+    100070: tube 1
+    100072: tube 2
+    100074: tunnel006
+    100076: tunnel007
+    100078: tunnel008
+    100080: wall010
+    100082: wood_base
+    100084: wood_base 1
+    100086: wood_table
+    100088: wood_table010
+    100090: wood_table202
+    100092: wood_table203
+    100094: wood_table204
+    100096: wood_table214
+    100098: wood_table330
+    100100: wood_table331
+    100102: wood_table332
+    100104: wood_table333
+    100106: wood_table334
+    100108: gear
+    100110: wood_table335
+    100112: cloth023
+    100114: cross023
+    100116: wood_table883
+    100118: Sphere011
+    100120: Sphere012
+    100122: Sphere013
+    100124: Sphere014
+    100126: Sphere015
+    100128: Sphere016
+    400000: ' anti-aircraft gun_deposit002'
+    400002: ' anti-aircraft gun_deposit002 1'
+    400004: ' anti-aircraft gun_deposit003'
+    400006: ' anti-aircraft gun_ring 001'
+    400008: ' anti-aircraft gun_ring 006'
+    400010: ' anti-aircraft gun_ring 011'
+    400012: air_vent001
+    400014: air_vent002
+    400016: arch_door006
+    400018: arch_window002
+    400020: arch_window002 1
+    400022: arch_window003
+    400024: base_metal
+    400026: basket002
+    400028: bedrock009
+    400030: cannon
+    400032: cannon 1
+    400034: cannon 2
+    400036: cloth015
+    400038: cross015
+    400040: door009
+    400042: metre_big002
+    400044: motor
+    400046: piston001
+    400048: Plane001
+    400050: ramp004
+    400052: rotator
+    400054: shield005
+    400056: Sphere006
+    400058: Sphere007
+    400060: Sphere008
+    400062: Sphere009
+    400064: Sphere010
+    400066: //RootNode
+    400068: tube
+    400070: tube 1
+    400072: tube 2
+    400074: tunnel006
+    400076: tunnel007
+    400078: tunnel008
+    400080: wall010
+    400082: wood_base
+    400084: wood_base 1
+    400086: wood_table
+    400088: wood_table010
+    400090: wood_table202
+    400092: wood_table203
+    400094: wood_table204
+    400096: wood_table214
+    400098: wood_table330
+    400100: wood_table331
+    400102: wood_table332
+    400104: wood_table333
+    400106: wood_table334
+    400108: gear
+    400110: wood_table335
+    400112: cloth023
+    400114: cross023
+    400116: wood_table883
+    400118: Sphere011
+    400120: Sphere012
+    400122: Sphere013
+    400124: Sphere014
+    400126: Sphere015
+    400128: Sphere016
+    2300000: ' anti-aircraft gun_deposit002'
+    2300002: ' anti-aircraft gun_deposit002 1'
+    2300004: ' anti-aircraft gun_deposit003'
+    2300006: ' anti-aircraft gun_ring 001'
+    2300008: ' anti-aircraft gun_ring 006'
+    2300010: ' anti-aircraft gun_ring 011'
+    2300012: air_vent001
+    2300014: air_vent002
+    2300016: arch_door006
+    2300018: arch_window002
+    2300020: arch_window002 1
+    2300022: arch_window003
+    2300024: base_metal
+    2300026: basket002
+    2300028: bedrock009
+    2300030: cannon
+    2300032: cannon 1
+    2300034: cannon 2
+    2300036: cloth015
+    2300038: cross015
+    2300040: door009
+    2300042: metre_big002
+    2300044: motor
+    2300046: piston001
+    2300048: Plane001
+    2300050: ramp004
+    2300052: rotator
+    2300054: shield005
+    2300056: Sphere006
+    2300058: Sphere007
+    2300060: Sphere008
+    2300062: Sphere009
+    2300064: Sphere010
+    2300066: tube
+    2300068: tube 1
+    2300070: tube 2
+    2300072: tunnel006
+    2300074: tunnel007
+    2300076: tunnel008
+    2300078: wall010
+    2300080: wood_base
+    2300082: wood_base 1
+    2300084: wood_table
+    2300086: wood_table010
+    2300088: wood_table202
+    2300090: wood_table203
+    2300092: wood_table204
+    2300094: wood_table214
+    2300096: wood_table330
+    2300098: wood_table331
+    2300100: wood_table332
+    2300102: wood_table333
+    2300104: wood_table334
+    2300106: gear
+    2300108: wood_table335
+    2300110: cloth023
+    2300112: cross023
+    2300114: wood_table883
+    2300116: Sphere011
+    2300118: Sphere012
+    2300120: Sphere013
+    2300122: Sphere014
+    2300124: Sphere015
+    2300126: Sphere016
+    3300000: ' anti-aircraft gun_deposit002'
+    3300002: ' anti-aircraft gun_deposit002 1'
+    3300004: ' anti-aircraft gun_deposit003'
+    3300006: ' anti-aircraft gun_ring 001'
+    3300008: ' anti-aircraft gun_ring 006'
+    3300010: ' anti-aircraft gun_ring 011'
+    3300012: air_vent001
+    3300014: air_vent002
+    3300016: arch_door006
+    3300018: arch_window002
+    3300020: arch_window002 1
+    3300022: arch_window003
+    3300024: base_metal
+    3300026: basket002
+    3300028: bedrock009
+    3300030: cannon
+    3300032: cannon 1
+    3300034: cannon 2
+    3300036: cloth015
+    3300038: cross015
+    3300040: door009
+    3300042: metre_big002
+    3300044: motor
+    3300046: piston001
+    3300048: Plane001
+    3300050: ramp004
+    3300052: rotator
+    3300054: shield005
+    3300056: Sphere006
+    3300058: Sphere007
+    3300060: Sphere008
+    3300062: Sphere009
+    3300064: Sphere010
+    3300066: tube
+    3300068: tube 1
+    3300070: tube 2
+    3300072: tunnel006
+    3300074: tunnel007
+    3300076: tunnel008
+    3300078: wall010
+    3300080: wood_base
+    3300082: wood_base 1
+    3300084: wood_table
+    3300086: wood_table010
+    3300088: wood_table202
+    3300090: wood_table203
+    3300092: wood_table204
+    3300094: wood_table214
+    3300096: wood_table330
+    3300098: wood_table331
+    3300100: wood_table332
+    3300102: wood_table333
+    3300104: wood_table334
+    3300106: gear
+    3300108: wood_table335
+    3300110: cloth023
+    3300112: cross023
+    3300114: wood_table883
+    3300116: Sphere011
+    3300118: Sphere012
+    3300120: Sphere013
+    3300122: Sphere014
+    3300124: Sphere015
+    3300126: Sphere016
+    4300000: rotator
+    4300002: shield005
+    4300004: ' anti-aircraft gun_ring 001'
+    4300006: piston001
+    4300008: ' anti-aircraft gun_ring 006'
+    4300010: cannon
+    4300012: ' anti-aircraft gun_deposit002'
+    4300014: wood_base
+    4300016: air_vent002
+    4300018: metre_big002
+    4300020: cannon
+    4300022: air_vent001
+    4300024: ' anti-aircraft gun_ring 011'
+    4300026: ' anti-aircraft gun_deposit003'
+    4300028: Sphere010
+    4300030: cannon
+    4300032: base_metal
+    4300034: tube
+    4300036: tube
+    4300038: tube
+    4300040: Sphere006
+    4300042: Sphere008
+    4300044: Sphere009
+    4300046: basket002
+    4300048: ' anti-aircraft gun_deposit002'
+    4300050: motor
+    4300052: Sphere007
+    4300054: wood_base
+    4300056: wood_table204
+    4300058: wood_table203
+    4300060: wood_table214
+    4300062: tunnel006
+    4300064: arch_window003
+    4300066: wood_table202
+    4300068: wood_table330
+    4300070: tunnel007
+    4300072: arch_window002
+    4300074: door009
+    4300076: ramp004
+    4300078: wall010
+    4300080: bedrock009
+    4300082: wood_table
+    4300084: wood_table331
+    4300086: wood_table332
+    4300088: wood_table010
+    4300090: tunnel008
+    4300092: arch_door006
+    4300094: wood_table333
+    4300096: arch_window002
+    4300098: wood_table334
+    4300100: cloth015
+    4300102: cross015
+    4300104: Plane001
+    4300106: gear
+    4300108: wood_table335
+    4300110: cross023
+    4300112: cloth023
+    4300114: wood_table883
+    4300116: Sphere011
+    4300118: Sphere012
+    4300120: Sphere013
+    4300122: Sphere014
+    4300124: Sphere015
+    4300126: Sphere016
+    6400000: ' anti-aircraft gun_deposit002'
+    6400002: ' anti-aircraft gun_deposit002 1'
+    6400004: ' anti-aircraft gun_deposit003'
+    6400006: ' anti-aircraft gun_ring 001'
+    6400008: ' anti-aircraft gun_ring 006'
+    6400010: ' anti-aircraft gun_ring 011'
+    6400012: air_vent001
+    6400014: air_vent002
+    6400016: arch_door006
+    6400018: arch_window002
+    6400020: arch_window002 1
+    6400022: arch_window003
+    6400024: base_metal
+    6400026: basket002
+    6400028: bedrock009
+    6400030: cannon
+    6400032: cannon 1
+    6400034: cannon 2
+    6400036: cloth015
+    6400038: cross015
+    6400040: door009
+    6400042: gear
+    6400044: metre_big002
+    6400046: motor
+    6400048: piston001
+    6400050: ramp004
+    6400052: shield005
+    6400054: Sphere006
+    6400056: Sphere007
+    6400058: Sphere008
+    6400060: Sphere009
+    6400062: Sphere010
+    6400064: tube
+    6400066: tube 1
+    6400068: tube 2
+    6400070: tunnel006
+    6400072: tunnel007
+    6400074: tunnel008
+    6400076: wall010
+    6400078: wood_base
+    6400080: wood_base 1
+    6400082: wood_table
+    6400084: wood_table010
+    6400086: wood_table202
+    6400088: wood_table203
+    6400090: wood_table204
+    6400092: wood_table214
+    6400094: wood_table330
+    6400096: wood_table331
+    6400098: wood_table332
+    6400100: wood_table333
+    6400102: wood_table334
+    6400104: wood_table335
+    6400106: cloth023
+    6400108: cross023
+    6400110: wood_table883
+    6400112: Sphere011
+    6400114: Sphere012
+    6400116: Sphere013
+    6400118: Sphere014
+    6400120: Sphere015
+    6400122: Sphere016
+    7400000: PACK
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa285298ddeb814b84fa338de13efc9, type: 3}
+  m_Name: ArcherRegulator 2
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 5129543832648091355, guid: 4e01ee944362e1c45adf65e3bf7bc44b, type: 3}
+  minAmountRange:
+    min: 2
+    max: 2
+  maxAmountRange:
+    min: 8
+    max: 10
+  maxPendingAmount: 3
+  createOnDemand: 1
+  startCreatingAfter:
+    min: 10
+    max: 15
+  spawnReloadRange:
+    min: 8
+    max: 11
+  ratioRange:
+    min: 0.2
+    max: 0.25
+  autoCreate: 1

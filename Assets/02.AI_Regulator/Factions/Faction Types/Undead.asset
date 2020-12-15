@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44665be8e81714c43929fcd22745fb51, type: 3}
+  m_Name: Undead
+  m_EditorClassIdentifier: 
+  Name: Undead
+  Code: undead
+  capitalBuilding: {fileID: 8043890989659897570, guid: 1c553e944fea8a4489d4e2b11987b82c,
+    type: 3}
+  centerBuilding: {fileID: 8043890989659897570, guid: 1c553e944fea8a4489d4e2b11987b82c,
+    type: 3}
+  populationBuilding: {fileID: 2466361427916347519, guid: 13466ad270c0ce043bc8ae33314d0290,
+    type: 3}
+  extraBuildings:
+  - {fileID: 8043890989659897570, guid: 1c553e944fea8a4489d4e2b11987b82c, type: 3}
+  - {fileID: 2466361427916347519, guid: 13466ad270c0ce043bc8ae33314d0290, type: 3}
+  - {fileID: 435563654141167877, guid: 18cab183f0c6a4840be38b9a96ca3ba9, type: 3}
+  - {fileID: 5340118270410764812, guid: 9a68173c762011646905c6027eef4a22, type: 3}
+  - {fileID: 7877246524600615106, guid: a22eaa56c97761d43b312b8c60b94605, type: 3}
+  - {fileID: 114325795762460446, guid: 719894528d5258a44ab815c70aeed39b, type: 3}
+  Limits: []

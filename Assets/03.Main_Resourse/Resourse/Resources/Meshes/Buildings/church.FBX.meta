@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 9a284d25a24991241a6da38ea5623535
+timeCreated: 1431080755
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bedrock
+    100002: bell
+    100004: Box061
+    100006: Box085
+    100008: //RootNode
+    100010: colour_glass
+    100012: colour_glass 1
+    100014: colour_glass 2
+    100016: colour_glass 3
+    100018: Cylinder018
+    100020: Cylinder_roof
+    100022: Cylinder_roof 1
+    100024: Cylinder_roof 2
+    100026: Cylinder_wall
+    100028: Cylinder_wall 1
+    100030: door
+    100032: frame_tunnel001
+    100034: frame_tunnel002
+    100036: frame_tunnel003
+    100038: frame_tunnel004
+    100040: frame_tunnel005
+    100042: large_wood002
+    100044: madera004
+    100046: Plane001
+    100048: Pyramid_roof
+    100050: roof
+    100052: roof 1
+    100054: rope007
+    100056: rope008
+    100058: rope009
+    100060: rosette
+    100062: tower
+    100064: wall
+    100066: wood_table
+    100068: wood_table118
+    100070: wood_table119
+    100072: wood_table120
+    100074: wood_table121
+    100076: wood_table122
+    100078: wood_table123
+    100080: wood_table124
+    100082: wood_table125
+    100084: wood_table126
+    100086: wood_table127
+    100088: wood_table128
+    100090: wood_table129
+    100092: wood_table130
+    100094: wood_table131
+    100096: wood_table132
+    100098: wood_table133
+    100100: wood_table134
+    100102: wood_table139
+    100104: wood_table140
+    100106: wood_table141
+    100108: wood_table142
+    100110: wood_table143
+    100112: wood_table144
+    100114: wood_table145
+    100116: wood_table146
+    100118: wood_table147
+    100120: wood_table148
+    100122: wood_table149
+    100124: wood_table150
+    100126: wood_table151
+    100128: wood_table152
+    100130: wood_table153
+    100132: wood_table154
+    100134: wood_table155
+    100136: wood_table156
+    400000: bedrock
+    400002: bell
+    400004: Box061
+    400006: Box085
+    400008: //RootNode
+    400010: colour_glass
+    400012: colour_glass 1
+    400014: colour_glass 2
+    400016: colour_glass 3
+    400018: Cylinder018
+    400020: Cylinder_roof
+    400022: Cylinder_roof 1
+    400024: Cylinder_roof 2
+    400026: Cylinder_wall
+    400028: Cylinder_wall 1
+    400030: door
+    400032: frame_tunnel001
+    400034: frame_tunnel002
+    400036: frame_tunnel003
+    400038: frame_tunnel004
+    400040: frame_tunnel005
+    400042: large_wood002
+    400044: madera004
+    400046: Plane001
+    400048: Pyramid_roof
+    400050: roof
+    400052: roof 1
+    400054: rope007
+    400056: rope008
+    400058: rope009
+    400060: rosette
+    400062: tower
+    400064: wall
+    400066: wood_table
+    400068: wood_table118
+    400070: wood_table119
+    400072: wood_table120
+    400074: wood_table121
+    400076: wood_table122
+    400078: wood_table123
+    400080: wood_table124
+    400082: wood_table125
+    400084: wood_table126
+    400086: wood_table127
+    400088: wood_table128
+    400090: wood_table129
+    400092: wood_table130
+    400094: wood_table131
+    400096: wood_table132
+    400098: wood_table133
+    400100: wood_table134
+    400102: wood_table139
+    400104: wood_table140
+    400106: wood_table141
+    400108: wood_table142
+    400110: wood_table143
+    400112: wood_table144
+    400114: wood_table145
+    400116: wood_table146
+    400118: wood_table147
+    400120: wood_table148
+    400122: wood_table149
+    400124: wood_table150
+    400126: wood_table151
+    400128: wood_table152
+    400130: wood_table153
+    400132: wood_table154
+    400134: wood_table155
+    400136: wood_table156
+    2300000: bedrock
+    2300002: bell
+    2300004: Box061
+    2300006: Box085
+    2300008: colour_glass
+    2300010: colour_glass 1
+    2300012: colour_glass 2
+    2300014: colour_glass 3
+    2300016: Cylinder018
+    2300018: Cylinder_roof
+    2300020: Cylinder_roof 1
+    2300022: Cylinder_roof 2
+    2300024: Cylinder_wall
+    2300026: Cylinder_wall 1
+    2300028: door
+    2300030: frame_tunnel001
+    2300032: frame_tunnel002
+    2300034: frame_tunnel003
+    2300036: frame_tunnel004
+    2300038: frame_tunnel005
+    2300040: large_wood002
+    2300042: madera004
+    2300044: Plane001
+    2300046: Pyramid_roof
+    2300048: roof
+    2300050: roof 1
+    2300052: rope007
+    2300054: rope008
+    2300056: rope009
+    2300058: rosette
+    2300060: tower
+    2300062: wall
+    2300064: wood_table
+    2300066: wood_table118
+    2300068: wood_table119
+    2300070: wood_table120
+    2300072: wood_table121
+    2300074: wood_table122
+    2300076: wood_table123
+    2300078: wood_table124
+    2300080: wood_table125
+    2300082: wood_table126
+    2300084: wood_table127
+    2300086: wood_table128
+    2300088: wood_table129
+    2300090: wood_table130
+    2300092: wood_table131
+    2300094: wood_table132
+    2300096: wood_table133
+    2300098: wood_table134
+    2300100: wood_table139
+    2300102: wood_table140
+    2300104: wood_table141
+    2300106: wood_table142
+    2300108: wood_table143
+    2300110: wood_table144
+    2300112: wood_table145
+    2300114: wood_table146
+    2300116: wood_table147
+    2300118: wood_table148
+    2300120: wood_table149
+    2300122: wood_table150
+    2300124: wood_table151
+    2300126: wood_table152
+    2300128: wood_table153
+    2300130: wood_table154
+    2300132: wood_table155
+    2300134: wood_table156
+    3300000: bedrock
+    3300002: bell
+    3300004: Box061
+    3300006: Box085
+    3300008: colour_glass
+    3300010: colour_glass 1
+    3300012: colour_glass 2
+    3300014: colour_glass 3
+    3300016: Cylinder018
+    3300018: Cylinder_roof
+    3300020: Cylinder_roof 1
+    3300022: Cylinder_roof 2
+    3300024: Cylinder_wall
+    3300026: Cylinder_wall 1
+    3300028: door
+    3300030: frame_tunnel001
+    3300032: frame_tunnel002
+    3300034: frame_tunnel003
+    3300036: frame_tunnel004
+    3300038: frame_tunnel005
+    3300040: large_wood002
+    3300042: madera004
+    3300044: Plane001
+    3300046: Pyramid_roof
+    3300048: roof
+    3300050: roof 1
+    3300052: rope007
+    3300054: rope008
+    3300056: rope009
+    3300058: rosette
+    3300060: tower
+    3300062: wall
+    3300064: wood_table
+    3300066: wood_table118
+    3300068: wood_table119
+    3300070: wood_table120
+    3300072: wood_table121
+    3300074: wood_table122
+    3300076: wood_table123
+    3300078: wood_table124
+    3300080: wood_table125
+    3300082: wood_table126
+    3300084: wood_table127
+    3300086: wood_table128
+    3300088: wood_table129
+    3300090: wood_table130
+    3300092: wood_table131
+    3300094: wood_table132
+    3300096: wood_table133
+    3300098: wood_table134
+    3300100: wood_table139
+    3300102: wood_table140
+    3300104: wood_table141
+    3300106: wood_table142
+    3300108: wood_table143
+    3300110: wood_table144
+    3300112: wood_table145
+    3300114: wood_table146
+    3300116: wood_table147
+    3300118: wood_table148
+    3300120: wood_table149
+    3300122: wood_table150
+    3300124: wood_table151
+    3300126: wood_table152
+    3300128: wood_table153
+    3300130: wood_table154
+    3300132: wood_table155
+    3300134: wood_table156
+    4300000: roof
+    4300002: tower
+    4300004: rosette
+    4300006: Cylinder_wall
+    4300008: Pyramid_roof
+    4300010: door
+    4300012: Cylinder_roof
+    4300014: roof
+    4300016: Cylinder_wall
+    4300018: Box061
+    4300020: bedrock
+    4300022: wall
+    4300024: colour_glass
+    4300026: bell
+    4300028: large_wood002
+    4300030: wood_table118
+    4300032: wood_table120
+    4300034: wood_table127
+    4300036: wood_table128
+    4300038: frame_tunnel001
+    4300040: Cylinder018
+    4300042: madera004
+    4300044: wood_table145
+    4300046: wood_table
+    4300048: rope007
+    4300050: rope009
+    4300052: Box085
+    4300054: Plane001
+    4300056: wood_table119
+    4300058: wood_table121
+    4300060: wood_table122
+    4300062: wood_table123
+    4300064: wood_table124
+    4300066: wood_table125
+    4300068: wood_table126
+    4300070: wood_table129
+    4300072: wood_table130
+    4300074: wood_table131
+    4300076: wood_table132
+    4300078: Cylinder_roof
+    4300080: wood_table133
+    4300082: wood_table134
+    4300084: Cylinder_roof
+    4300086: wood_table139
+    4300088: wood_table140
+    4300090: wood_table141
+    4300092: colour_glass
+    4300094: frame_tunnel002
+    4300096: colour_glass
+    4300098: frame_tunnel003
+    4300100: wood_table142
+    4300102: wood_table143
+    4300104: wood_table144
+    4300106: frame_tunnel004
+    4300108: wood_table146
+    4300110: wood_table147
+    4300112: wood_table148
+    4300114: wood_table149
+    4300116: wood_table150
+    4300118: wood_table151
+    4300120: wood_table152
+    4300122: wood_table153
+    4300124: wood_table154
+    4300126: rope008
+    4300128: wood_table155
+    4300130: colour_glass
+    4300132: frame_tunnel005
+    4300134: wood_table156
+    7400000: PACK
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

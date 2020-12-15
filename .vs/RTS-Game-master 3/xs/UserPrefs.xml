@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6F17FE00-9AB8-736E-1242-D602C1CD27A8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RTS Engine/Game Managers/Scripts/AudioManager.cs">
+    <Files>
+      <File FileName="Assets/RTS Engine/Units/Scripts/Unit.cs" Line="33" Column="23" />
+      <File FileName="Assets/RTS Engine/Units/Scripts/UnitComponent.cs" Line="131" Column="29" />
+      <File FileName="Assets/RTS Engine/Game Managers/Scripts/AudioManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RTS-Game-master 3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="RTS Engine" expanded="True">
+                <Node name="Game Managers" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="AudioManager.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Units" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ebbc9597-d4ff-4869-9cc1-e8b3cbd23ede" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 1f69c5bf9134c464db29cc2082fa8423
+timeCreated: 1529378412
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Maindome:Group2_low
+    100004: Maindome:Group2_low001
+    100006: Maindome:Group2_low002
+    100008: Maindome:Group2_low003
+    100010: Maindome:Group2_low004
+    100012: Maindome:Group2_low005
+    100014: Maindome:Group2_low006
+    100016: Maindome:Group2_low007
+    100018: Maindome:Group3_low
+    100020: Maindome:Object001
+    100022: Maindome:Object002
+    100024: Maindome:Object003
+    100026: Maindome:Object004
+    100028: Maindome:object1
+    400000: //RootNode
+    400002: Maindome:Group2_low
+    400004: Maindome:Group2_low001
+    400006: Maindome:Group2_low002
+    400008: Maindome:Group2_low003
+    400010: Maindome:Group2_low004
+    400012: Maindome:Group2_low005
+    400014: Maindome:Group2_low006
+    400016: Maindome:Group2_low007
+    400018: Maindome:Group3_low
+    400020: Maindome:Object001
+    400022: Maindome:Object002
+    400024: Maindome:Object003
+    400026: Maindome:Object004
+    400028: Maindome:object1
+    2100000: Maindome_Maindome1
+    2100002: Maindome_Floor1
+    2300000: Maindome:Group2_low
+    2300002: Maindome:Group2_low001
+    2300004: Maindome:Group2_low002
+    2300006: Maindome:Group2_low003
+    2300008: Maindome:Group2_low004
+    2300010: Maindome:Group2_low005
+    2300012: Maindome:Group2_low006
+    2300014: Maindome:Group2_low007
+    2300016: Maindome:Group3_low
+    2300018: Maindome:Object001
+    2300020: Maindome:Object002
+    2300022: Maindome:Object003
+    2300024: Maindome:Object004
+    2300026: Maindome:object1
+    3300000: Maindome:Group2_low
+    3300002: Maindome:Group2_low001
+    3300004: Maindome:Group2_low002
+    3300006: Maindome:Group2_low003
+    3300008: Maindome:Group2_low004
+    3300010: Maindome:Group2_low005
+    3300012: Maindome:Group2_low006
+    3300014: Maindome:Group2_low007
+    3300016: Maindome:Group3_low
+    3300018: Maindome:Object001
+    3300020: Maindome:Object002
+    3300022: Maindome:Object003
+    3300024: Maindome:Object004
+    3300026: Maindome:object1
+    4300000: Maindome:Group3_low
+    4300002: Maindome:Group2_low
+    4300004: Maindome:object1
+    4300006: Maindome:Object001
+    4300008: Maindome:Group2_low001
+    4300010: Maindome:Group2_low002
+    4300012: Maindome:Group2_low003
+    4300014: Maindome:Object002
+    4300016: Maindome:Group2_low004
+    4300018: Maindome:Group2_low005
+    4300020: Maindome:Object003
+    4300022: Maindome:Group2_low006
+    4300024: Maindome:Object004
+    4300026: Maindome:Group2_low007
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maindome_Floor1
+    second: {fileID: 2100000, guid: ac7572309e675194b99a38a71a2f8eef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maindome_Maindome1
+    second: {fileID: 2100000, guid: d3501426aaee2854eb0df0239f8aec22, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Undead_ArcherOverrideAnimCtrl 1
+  m_Controller: {fileID: 9100000, guid: 4f28c54bfb24b3a489502c2758d6e46e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c43c4825dda0b834fbe07a3fb79dc0b8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3158fbeb7b3d95e4c8244ac8fc8caf27, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: bc459f3943a6900448e16eacce69679f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7d62c165f9abd85449ad37810c888756, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 61fa50bfb9208714dbea61db57431553, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5386d5d7b37db0e44a1ce5f92b654bb0, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 6de6cf5474149cd45b96c0190eec5a9e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5b10b06c749c8ef4aac9e9c4f58db537, type: 3}

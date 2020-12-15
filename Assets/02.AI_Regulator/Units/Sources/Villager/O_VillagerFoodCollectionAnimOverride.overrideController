@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: O_VillagerFoodCollectionAnimOverride
+  m_Controller: {fileID: 9100000, guid: 4f28c54bfb24b3a489502c2758d6e46e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 55b2840a3c513db48b88350b9279297a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3745828cbed55134e9eb6669b35722a8, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: bc459f3943a6900448e16eacce69679f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9bf7732a2889f064da72647508082dd2, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 61fa50bfb9208714dbea61db57431553, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 61c837108c50ff6479f68ee56d8e697b, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 6de6cf5474149cd45b96c0190eec5a9e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 346deeea261776c468db21c7b516d2f5, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: c567a0c876c9f384fae21982e91215c5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4b4dd65e47f9d5c4389a3bcfc7bf0ac3, type: 3}

@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: a10b24f33b841314db1563d20dae20f9
+timeCreated: 1431081324
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bedrock
+    100002: door
+    100004: //RootNode
+    100006: large_wood
+    100008: large_wood 1
+    100010: large_wood 2
+    100012: large_wood 3
+    100014: large_wood 4
+    100016: large_wood 5
+    100018: large_wood 6
+    100020: large_wood 7
+    100022: large_wood 8
+    100024: pipe
+    100026: roof_farm
+    100028: roof_farm 1
+    100030: wall_farm
+    100032: window
+    100034: window 1
+    100036: wood_fence
+    100038: wood_table
+    100040: wood_table 1
+    100042: wood_table 2
+    100044: wood_window
+    100046: wood_window 1
+    100048: wood_window 10
+    100050: wood_window 2
+    100052: wood_window 3
+    100054: wood_window 4
+    100056: wood_window 5
+    100058: wood_window 6
+    100060: wood_window 7
+    100062: wood_window 8
+    100064: wood_window 9
+    400000: bedrock
+    400002: door
+    400004: //RootNode
+    400006: large_wood
+    400008: large_wood 1
+    400010: large_wood 2
+    400012: large_wood 3
+    400014: large_wood 4
+    400016: large_wood 5
+    400018: large_wood 6
+    400020: large_wood 7
+    400022: large_wood 8
+    400024: pipe
+    400026: roof_farm
+    400028: roof_farm 1
+    400030: wall_farm
+    400032: window
+    400034: window 1
+    400036: wood_fence
+    400038: wood_table
+    400040: wood_table 1
+    400042: wood_table 2
+    400044: wood_window
+    400046: wood_window 1
+    400048: wood_window 10
+    400050: wood_window 2
+    400052: wood_window 3
+    400054: wood_window 4
+    400056: wood_window 5
+    400058: wood_window 6
+    400060: wood_window 7
+    400062: wood_window 8
+    400064: wood_window 9
+    2300000: bedrock
+    2300002: door
+    2300004: large_wood
+    2300006: large_wood 1
+    2300008: large_wood 2
+    2300010: large_wood 3
+    2300012: large_wood 4
+    2300014: large_wood 5
+    2300016: large_wood 6
+    2300018: large_wood 7
+    2300020: large_wood 8
+    2300022: pipe
+    2300024: roof_farm
+    2300026: roof_farm 1
+    2300028: wall_farm
+    2300030: window
+    2300032: window 1
+    2300034: wood_fence
+    2300036: wood_table
+    2300038: wood_table 1
+    2300040: wood_table 2
+    2300042: wood_window
+    2300044: wood_window 1
+    2300046: wood_window 10
+    2300048: wood_window 2
+    2300050: wood_window 3
+    2300052: wood_window 4
+    2300054: wood_window 5
+    2300056: wood_window 6
+    2300058: wood_window 7
+    2300060: wood_window 8
+    2300062: wood_window 9
+    3300000: bedrock
+    3300002: door
+    3300004: large_wood
+    3300006: large_wood 1
+    3300008: large_wood 2
+    3300010: large_wood 3
+    3300012: large_wood 4
+    3300014: large_wood 5
+    3300016: large_wood 6
+    3300018: large_wood 7
+    3300020: large_wood 8
+    3300022: pipe
+    3300024: roof_farm
+    3300026: roof_farm 1
+    3300028: wall_farm
+    3300030: window
+    3300032: window 1
+    3300034: wood_fence
+    3300036: wood_table
+    3300038: wood_table 1
+    3300040: wood_table 2
+    3300042: wood_window
+    3300044: wood_window 1
+    3300046: wood_window 10
+    3300048: wood_window 2
+    3300050: wood_window 3
+    3300052: wood_window 4
+    3300054: wood_window 5
+    3300056: wood_window 6
+    3300058: wood_window 7
+    3300060: wood_window 8
+    3300062: wood_window 9
+    4300000: door
+    4300002: pipe
+    4300004: wood_fence
+    4300006: bedrock
+    4300008: wall_farm
+    4300010: window
+    4300012: wood_table
+    4300014: wood_window
+    4300016: large_wood
+    4300018: large_wood
+    4300020: large_wood
+    4300022: large_wood
+    4300024: wood_window
+    4300026: wood_window
+    4300028: wood_table
+    4300030: roof_farm
+    4300032: large_wood
+    4300034: large_wood
+    4300036: large_wood
+    4300038: large_wood
+    4300040: roof_farm
+    4300042: wood_window
+    4300044: wood_window
+    4300046: window
+    4300048: wood_window
+    4300050: wood_window
+    4300052: wood_window
+    4300054: wood_window
+    4300056: wood_window
+    4300058: wood_window
+    4300060: wood_table
+    4300062: large_wood
+    7400000: PACK
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: d80e2fd9ff4e54c4a90f343a2f30ce77
+timeCreated: 1434720676
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: awning
+    100002: base_build
+    100004: ceiling
+    100006: chains003
+    100008: coal
+    100010: coal 1
+    100012: door
+    100014: fang
+    100016: fang 1
+    100018: fang 2
+    100020: manacles
+    100022: manacles 1
+    100024: //RootNode
+    100026: Perfume_Burner
+    100028: Perfume_burner
+    100030: Plane006
+    100032: roofing
+    100034: step001
+    100036: vertebra
+    400000: awning
+    400002: base_build
+    400004: ceiling
+    400006: chains003
+    400008: coal
+    400010: coal 1
+    400012: door
+    400014: fang
+    400016: fang 1
+    400018: fang 2
+    400020: manacles
+    400022: manacles 1
+    400024: //RootNode
+    400026: Perfume_Burner
+    400028: Perfume_burner
+    400030: Plane006
+    400032: roofing
+    400034: step001
+    400036: vertebra
+    2300000: awning
+    2300002: base_build
+    2300004: ceiling
+    2300006: chains003
+    2300008: coal
+    2300010: coal 1
+    2300012: door
+    2300014: fang
+    2300016: fang 1
+    2300018: fang 2
+    2300020: manacles
+    2300022: manacles 1
+    2300024: Perfume_Burner
+    2300026: Perfume_burner
+    2300028: Plane006
+    2300030: roofing
+    2300032: step001
+    2300034: vertebra
+    3300000: awning
+    3300002: base_build
+    3300004: ceiling
+    3300006: chains003
+    3300008: coal
+    3300010: coal 1
+    3300012: door
+    3300014: fang
+    3300016: fang 1
+    3300018: fang 2
+    3300020: manacles
+    3300022: manacles 1
+    3300024: Perfume_Burner
+    3300026: Perfume_burner
+    3300028: Plane006
+    3300030: roofing
+    3300032: step001
+    3300034: vertebra
+    4300000: roofing
+    4300002: base_build
+    4300004: ceiling
+    4300006: door
+    4300008: Perfume_burner
+    4300010: Perfume_Burner
+    4300012: manacles
+    4300014: step001
+    4300016: coal
+    4300018: fang
+    4300020: fang
+    4300022: fang
+    4300024: manacles
+    4300026: Plane006
+    4300028: vertebra
+    4300030: chains003
+    4300032: awning
+    4300034: coal
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

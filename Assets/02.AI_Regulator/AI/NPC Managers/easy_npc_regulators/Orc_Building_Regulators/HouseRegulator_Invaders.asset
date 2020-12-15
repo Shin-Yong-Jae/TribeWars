@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 177a20c994cac944f805afd73219f88c, type: 3}
+  m_Name: HouseRegulator_Invaders
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 2124126437241627311, guid: f22a4955620a2ac45ae7e58f0eebe5eb, type: 3}
+  minAmountRange:
+    min: 2
+    max: 2
+  maxAmountRange:
+    min: 3
+    max: 5
+  maxPendingAmount: 2
+  createOnDemand: 1
+  startCreatingAfter:
+    min: 0
+    max: 2
+  spawnReloadRange:
+    min: 3
+    max: 5
+  placementOption: 0
+  placementOptionInfo: 
+  buildAroundDistance: 4
+  rotate: 0

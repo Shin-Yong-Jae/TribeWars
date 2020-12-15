@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 86cecb48802a76f4f9730d7bbb288727
+timeCreated: 1431081323
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bedrock021
+    100004: door
+    100006: door001
+    100008: dummy
+    100010: dummy 1
+    100012: dummy001
+    100014: dummy002
+    100016: floor_tower
+    100018: floor_tower002
+    100020: frame_tunnel
+    100022: head_tower
+    100024: head_tower002
+    100026: large_wood
+    100028: large_wood001
+    100030: madera002
+    100032: madera003
+    100034: roof_barracks_1
+    100036: roof_barracks_2
+    100038: shield
+    100040: shield 1
+    100042: sword
+    100044: sword 1
+    100046: sword004
+    100048: tower
+    100050: tower002
+    100052: tunnel
+    100054: wall
+    100056: wall001
+    100058: weapons_shelf
+    100060: weapons_shelf001
+    100062: window003
+    100064: window004
+    100066: window005
+    100068: window006
+    100070: wood_circle_window
+    100072: wood_table
+    100074: wood_table 1
+    100076: wood_table023
+    100078: wood_table025
+    100080: wood_table029
+    100082: wood_table039
+    100084: wood_table040
+    100086: wood_table041
+    100088: wood_table042
+    100090: wood_table043
+    100092: wood_table044
+    100094: wood_table045
+    100096: wood_table046
+    100098: wood_table047
+    100100: wood_table060
+    100102: wood_table095
+    100104: wood_table096
+    100106: wood_table097
+    100108: wood_table098
+    100110: wood_table099
+    100112: wood_table100
+    100114: wood_table101
+    100116: wood_table102
+    100118: wood_table103
+    100120: wood_table104
+    100122: wood_table105
+    100124: wood_table106
+    100126: wood_table107
+    100128: wood_table109
+    100130: wood_table113
+    100132: wood_table116
+    100134: wood_table117
+    100136: wood_table481
+    100138: wood_table482
+    100140: wood_window
+    100142: wood_window 1
+    100144: wood_window 10
+    100146: wood_window 11
+    100148: wood_window 12
+    100150: wood_window 13
+    100152: wood_window 14
+    100154: wood_window 15
+    100156: wood_window 16
+    100158: wood_window 2
+    100160: wood_window 3
+    100162: wood_window 4
+    100164: wood_window 5
+    100166: wood_window 6
+    100168: wood_window 7
+    100170: wood_window 8
+    100172: wood_window 9
+    100174: Plane001
+    400000: //RootNode
+    400002: bedrock021
+    400004: door
+    400006: door001
+    400008: dummy
+    400010: dummy 1
+    400012: dummy001
+    400014: dummy002
+    400016: floor_tower
+    400018: floor_tower002
+    400020: frame_tunnel
+    400022: head_tower
+    400024: head_tower002
+    400026: large_wood
+    400028: large_wood001
+    400030: madera002
+    400032: madera003
+    400034: roof_barracks_1
+    400036: roof_barracks_2
+    400038: shield
+    400040: shield 1
+    400042: sword
+    400044: sword 1
+    400046: sword004
+    400048: tower
+    400050: tower002
+    400052: tunnel
+    400054: wall
+    400056: wall001
+    400058: weapons_shelf
+    400060: weapons_shelf001
+    400062: window003
+    400064: window004
+    400066: window005
+    400068: window006
+    400070: wood_circle_window
+    400072: wood_table
+    400074: wood_table 1
+    400076: wood_table023
+    400078: wood_table025
+    400080: wood_table029
+    400082: wood_table039
+    400084: wood_table040
+    400086: wood_table041
+    400088: wood_table042
+    400090: wood_table043
+    400092: wood_table044
+    400094: wood_table045
+    400096: wood_table046
+    400098: wood_table047
+    400100: wood_table060
+    400102: wood_table095
+    400104: wood_table096
+    400106: wood_table097
+    400108: wood_table098
+    400110: wood_table099
+    400112: wood_table100
+    400114: wood_table101
+    400116: wood_table102
+    400118: wood_table103
+    400120: wood_table104
+    400122: wood_table105
+    400124: wood_table106
+    400126: wood_table107
+    400128: wood_table109
+    400130: wood_table113
+    400132: wood_table116
+    400134: wood_table117
+    400136: wood_table481
+    400138: wood_table482
+    400140: wood_window
+    400142: wood_window 1
+    400144: wood_window 10
+    400146: wood_window 11
+    400148: wood_window 12
+    400150: wood_window 13
+    400152: wood_window 14
+    400154: wood_window 15
+    400156: wood_window 16
+    400158: wood_window 2
+    400160: wood_window 3
+    400162: wood_window 4
+    400164: wood_window 5
+    400166: wood_window 6
+    400168: wood_window 7
+    400170: wood_window 8
+    400172: wood_window 9
+    400174: Plane001
+    2300000: bedrock021
+    2300002: door
+    2300004: door001
+    2300006: dummy
+    2300008: dummy 1
+    2300010: dummy001
+    2300012: dummy002
+    2300014: floor_tower
+    2300016: floor_tower002
+    2300018: frame_tunnel
+    2300020: head_tower
+    2300022: head_tower002
+    2300024: large_wood
+    2300026: large_wood001
+    2300028: madera002
+    2300030: madera003
+    2300032: roof_barracks_1
+    2300034: roof_barracks_2
+    2300036: shield
+    2300038: shield 1
+    2300040: sword
+    2300042: sword 1
+    2300044: sword004
+    2300046: tower
+    2300048: tower002
+    2300050: tunnel
+    2300052: wall
+    2300054: wall001
+    2300056: weapons_shelf
+    2300058: weapons_shelf001
+    2300060: window003
+    2300062: window004
+    2300064: window005
+    2300066: window006
+    2300068: wood_circle_window
+    2300070: wood_table
+    2300072: wood_table 1
+    2300074: wood_table023
+    2300076: wood_table025
+    2300078: wood_table029
+    2300080: wood_table039
+    2300082: wood_table040
+    2300084: wood_table041
+    2300086: wood_table042
+    2300088: wood_table043
+    2300090: wood_table044
+    2300092: wood_table045
+    2300094: wood_table046
+    2300096: wood_table047
+    2300098: wood_table060
+    2300100: wood_table095
+    2300102: wood_table096
+    2300104: wood_table097
+    2300106: wood_table098
+    2300108: wood_table099
+    2300110: wood_table100
+    2300112: wood_table101
+    2300114: wood_table102
+    2300116: wood_table103
+    2300118: wood_table104
+    2300120: wood_table105
+    2300122: wood_table106
+    2300124: wood_table107
+    2300126: wood_table109
+    2300128: wood_table113
+    2300130: wood_table116
+    2300132: wood_table117
+    2300134: wood_table481
+    2300136: wood_table482
+    2300138: wood_window
+    2300140: wood_window 1
+    2300142: wood_window 10
+    2300144: wood_window 11
+    2300146: wood_window 12
+    2300148: wood_window 13
+    2300150: wood_window 14
+    2300152: wood_window 15
+    2300154: wood_window 16
+    2300156: wood_window 2
+    2300158: wood_window 3
+    2300160: wood_window 4
+    2300162: wood_window 5
+    2300164: wood_window 6
+    2300166: wood_window 7
+    2300168: wood_window 8
+    2300170: wood_window 9
+    2300172: Plane001
+    3300000: bedrock021
+    3300002: door
+    3300004: door001
+    3300006: dummy
+    3300008: dummy 1
+    3300010: dummy001
+    3300012: dummy002
+    3300014: floor_tower
+    3300016: floor_tower002
+    3300018: frame_tunnel
+    3300020: head_tower
+    3300022: head_tower002
+    3300024: large_wood
+    3300026: large_wood001
+    3300028: madera002
+    3300030: madera003
+    3300032: roof_barracks_1
+    3300034: roof_barracks_2
+    3300036: shield
+    3300038: shield 1
+    3300040: sword
+    3300042: sword 1
+    3300044: sword004
+    3300046: tower
+    3300048: tower002
+    3300050: tunnel
+    3300052: wall
+    3300054: wall001
+    3300056: weapons_shelf
+    3300058: weapons_shelf001
+    3300060: window003
+    3300062: window004
+    3300064: window005
+    3300066: window006
+    3300068: wood_circle_window
+    3300070: wood_table
+    3300072: wood_table 1
+    3300074: wood_table023
+    3300076: wood_table025
+    3300078: wood_table029
+    3300080: wood_table039
+    3300082: wood_table040
+    3300084: wood_table041
+    3300086: wood_table042
+    3300088: wood_table043
+    3300090: wood_table044
+    3300092: wood_table045
+    3300094: wood_table046
+    3300096: wood_table047
+    3300098: wood_table060
+    3300100: wood_table095
+    3300102: wood_table096
+    3300104: wood_table097
+    3300106: wood_table098
+    3300108: wood_table099
+    3300110: wood_table100
+    3300112: wood_table101
+    3300114: wood_table102
+    3300116: wood_table103
+    3300118: wood_table104
+    3300120: wood_table105
+    3300122: wood_table106
+    3300124: wood_table107
+    3300126: wood_table109
+    3300128: wood_table113
+    3300130: wood_table116
+    3300132: wood_table117
+    3300134: wood_table481
+    3300136: wood_table482
+    3300138: wood_window
+    3300140: wood_window 1
+    3300142: wood_window 10
+    3300144: wood_window 11
+    3300146: wood_window 12
+    3300148: wood_window 13
+    3300150: wood_window 14
+    3300152: wood_window 15
+    3300154: wood_window 16
+    3300156: wood_window 2
+    3300158: wood_window 3
+    3300160: wood_window 4
+    3300162: wood_window 5
+    3300164: wood_window 6
+    3300166: wood_window 7
+    3300168: wood_window 8
+    3300170: wood_window 9
+    3300172: Plane001
+    4300000: tower
+    4300002: floor_tower
+    4300004: head_tower
+    4300006: wall
+    4300008: roof_barracks_1
+    4300010: wood_table
+    4300012: wall001
+    4300014: head_tower002
+    4300016: floor_tower002
+    4300018: door
+    4300020: wood_table060
+    4300022: window003
+    4300024: large_wood
+    4300026: door001
+    4300028: wood_table099
+    4300030: roof_barracks_2
+    4300032: large_wood001
+    4300034: shield
+    4300036: wood_table104
+    4300038: madera002
+    4300040: madera003
+    4300042: dummy
+    4300044: dummy
+    4300046: wood_circle_window
+    4300048: wood_window
+    4300050: sword
+    4300052: weapons_shelf
+    4300054: wood_table116
+    4300056: window006
+    4300058: frame_tunnel
+    4300060: tunnel
+    4300062: dummy001
+    4300064: dummy002
+    4300066: wood_table481
+    4300068: weapons_shelf001
+    4300070: sword004
+    4300072: wood_table482
+    4300074: bedrock021
+    4300076: window005
+    4300078: Plane001
+    4300080: wood_table023
+    4300082: wood_table025
+    4300084: wood_table029
+    4300086: wood_table039
+    4300088: wood_table040
+    4300090: wood_table041
+    4300092: wood_table042
+    4300094: wood_table043
+    4300096: wood_table044
+    4300098: wood_table045
+    4300100: wood_table046
+    4300102: tower002
+    4300104: wood_window
+    4300106: wood_window
+    4300108: wood_window
+    4300110: wood_window
+    4300112: wood_window
+    4300114: window004
+    4300116: wood_window
+    4300118: wood_window
+    4300120: wood_window
+    4300122: wood_window
+    4300124: wood_window
+    4300126: wood_window
+    4300128: wood_window
+    4300130: wood_window
+    4300132: wood_window
+    4300134: wood_table095
+    4300136: wood_table096
+    4300138: wood_table097
+    4300140: wood_table098
+    4300142: wood_table100
+    4300144: wood_table101
+    4300146: wood_table102
+    4300148: wood_table103
+    4300150: shield
+    4300152: wood_table105
+    4300154: wood_table106
+    4300156: wood_table107
+    4300158: wood_table109
+    4300160: wood_window
+    4300162: wood_window
+    4300164: sword
+    4300166: wood_table113
+    4300168: wood_table117
+    7400000: PACK
+    7400002: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

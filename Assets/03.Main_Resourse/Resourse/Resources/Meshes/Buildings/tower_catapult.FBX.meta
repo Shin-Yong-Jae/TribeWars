@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: a63e99872eb5b614d8b2f92c759e0938
+timeCreated: 1431346279
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arch_door005
+    100002: arch_window001
+    100004: arch_window001 1
+    100006: basket
+    100008: bedrock007
+    100010: Box003
+    100012: bracket
+    100014: cloth024
+    100016: controlador_rope_down
+    100018: controlador_rope_up
+    100020: coupling002
+    100022: cross024
+    100024: door007
+    100026: floor
+    100028: gear_big004
+    100030: gear_small002
+    100032: gear_small003
+    100034: gear_small007
+    100036: iron_junction
+    100038: iron_junction 1
+    100040: iron_junction 2
+    100042: iron_junction 3
+    100044: iron_junction 4
+    100046: iron_junction 5
+    100048: iron_junction 6
+    100050: ramp003
+    100052: rope023
+    100054: rope_coil
+    100056: rotator
+    100058: shield004
+    100060: Sphere001
+    100062: stick002
+    100064: //RootNode
+    100066: tunnel003
+    100068: tunnel004
+    100070: wall008
+    100072: wood_table
+    100074: wood_table 1
+    100076: wood_table 2
+    100078: wood_table 3
+    100080: wood_table200
+    100082: wood_table205
+    100084: wood_table206
+    100086: wood_table207
+    100088: wood_table208
+    100090: wood_table209
+    100092: wood_table210
+    100094: wood_table211
+    100096: wood_table310
+    100098: wood_table311
+    100100: wood_table312
+    100102: wood_table313
+    100104: wood_table314
+    100106: wood_table315
+    100108: wood_table316
+    100110: wood_table317
+    100112: wood_table318
+    100114: wood_table884
+    400000: arch_door005
+    400002: arch_window001
+    400004: arch_window001 1
+    400006: basket
+    400008: bedrock007
+    400010: Box003
+    400012: bracket
+    400014: cloth024
+    400016: controlador_rope_down
+    400018: controlador_rope_up
+    400020: coupling002
+    400022: cross024
+    400024: door007
+    400026: floor
+    400028: gear_big004
+    400030: gear_small002
+    400032: gear_small003
+    400034: gear_small007
+    400036: iron_junction
+    400038: iron_junction 1
+    400040: iron_junction 2
+    400042: iron_junction 3
+    400044: iron_junction 4
+    400046: iron_junction 5
+    400048: iron_junction 6
+    400050: ramp003
+    400052: rope023
+    400054: rope_coil
+    400056: rotator
+    400058: shield004
+    400060: Sphere001
+    400062: stick002
+    400064: //RootNode
+    400066: tunnel003
+    400068: tunnel004
+    400070: wall008
+    400072: wood_table
+    400074: wood_table 1
+    400076: wood_table 2
+    400078: wood_table 3
+    400080: wood_table200
+    400082: wood_table205
+    400084: wood_table206
+    400086: wood_table207
+    400088: wood_table208
+    400090: wood_table209
+    400092: wood_table210
+    400094: wood_table211
+    400096: wood_table310
+    400098: wood_table311
+    400100: wood_table312
+    400102: wood_table313
+    400104: wood_table314
+    400106: wood_table315
+    400108: wood_table316
+    400110: wood_table317
+    400112: wood_table318
+    400114: wood_table884
+    2300000: arch_door005
+    2300002: arch_window001
+    2300004: arch_window001 1
+    2300006: basket
+    2300008: bedrock007
+    2300010: Box003
+    2300012: bracket
+    2300014: cloth024
+    2300016: controlador_rope_down
+    2300018: controlador_rope_up
+    2300020: coupling002
+    2300022: cross024
+    2300024: door007
+    2300026: floor
+    2300028: gear_big004
+    2300030: gear_small002
+    2300032: gear_small003
+    2300034: gear_small007
+    2300036: iron_junction
+    2300038: iron_junction 1
+    2300040: iron_junction 2
+    2300042: iron_junction 3
+    2300044: iron_junction 4
+    2300046: iron_junction 5
+    2300048: iron_junction 6
+    2300050: ramp003
+    2300052: rope023
+    2300054: rope_coil
+    2300056: rotator
+    2300058: shield004
+    2300060: Sphere001
+    2300062: stick002
+    2300064: tunnel003
+    2300066: tunnel004
+    2300068: wall008
+    2300070: wood_table
+    2300072: wood_table 1
+    2300074: wood_table 2
+    2300076: wood_table 3
+    2300078: wood_table200
+    2300080: wood_table205
+    2300082: wood_table206
+    2300084: wood_table207
+    2300086: wood_table208
+    2300088: wood_table209
+    2300090: wood_table210
+    2300092: wood_table211
+    2300094: wood_table310
+    2300096: wood_table311
+    2300098: wood_table312
+    2300100: wood_table313
+    2300102: wood_table314
+    2300104: wood_table315
+    2300106: wood_table316
+    2300108: wood_table317
+    2300110: wood_table318
+    2300112: wood_table884
+    3300000: arch_door005
+    3300002: arch_window001
+    3300004: arch_window001 1
+    3300006: basket
+    3300008: bedrock007
+    3300010: Box003
+    3300012: bracket
+    3300014: cloth024
+    3300016: controlador_rope_down
+    3300018: controlador_rope_up
+    3300020: coupling002
+    3300022: cross024
+    3300024: door007
+    3300026: floor
+    3300028: gear_big004
+    3300030: gear_small002
+    3300032: gear_small003
+    3300034: gear_small007
+    3300036: iron_junction
+    3300038: iron_junction 1
+    3300040: iron_junction 2
+    3300042: iron_junction 3
+    3300044: iron_junction 4
+    3300046: iron_junction 5
+    3300048: iron_junction 6
+    3300050: ramp003
+    3300052: rope023
+    3300054: rope_coil
+    3300056: rotator
+    3300058: shield004
+    3300060: Sphere001
+    3300062: stick002
+    3300064: tunnel003
+    3300066: tunnel004
+    3300068: wall008
+    3300070: wood_table
+    3300072: wood_table 1
+    3300074: wood_table 2
+    3300076: wood_table 3
+    3300078: wood_table200
+    3300080: wood_table205
+    3300082: wood_table206
+    3300084: wood_table207
+    3300086: wood_table208
+    3300088: wood_table209
+    3300090: wood_table210
+    3300092: wood_table211
+    3300094: wood_table310
+    3300096: wood_table311
+    3300098: wood_table312
+    3300100: wood_table313
+    3300102: wood_table314
+    3300104: wood_table315
+    3300106: wood_table316
+    3300108: wood_table317
+    3300110: wood_table318
+    3300112: wood_table884
+    4300000: rope023
+    4300002: gear_big004
+    4300004: wood_table310
+    4300006: wood_table311
+    4300008: wood_table884
+    4300010: wood_table
+    4300012: wood_table
+    4300014: wood_table312
+    4300016: wood_table313
+    4300018: arch_window001
+    4300020: wood_table314
+    4300022: arch_door005
+    4300024: tunnel003
+    4300026: arch_window001
+    4300028: tunnel004
+    4300030: wood_table315
+    4300032: wood_table316
+    4300034: wood_table317
+    4300036: wood_table
+    4300038: wood_table200
+    4300040: shield004
+    4300042: floor
+    4300044: bedrock007
+    4300046: wall008
+    4300048: ramp003
+    4300050: door007
+    4300052: wood_table
+    4300054: gear_small003
+    4300056: rotator
+    4300058: cloth024
+    4300060: cross024
+    4300062: stick002
+    4300064: iron_junction
+    4300066: iron_junction
+    4300068: bracket
+    4300070: wood_table318
+    4300072: wood_table211
+    4300074: wood_table209
+    4300076: iron_junction
+    4300078: iron_junction
+    4300080: iron_junction
+    4300082: wood_table208
+    4300084: gear_small007
+    4300086: wood_table205
+    4300088: gear_small002
+    4300090: wood_table206
+    4300092: wood_table210
+    4300094: iron_junction
+    4300096: rope_coil
+    4300098: iron_junction
+    4300100: Box003
+    4300102: controlador_rope_down
+    4300104: controlador_rope_up
+    4300106: basket
+    4300108: wood_table207
+    4300110: coupling002
+    4300112: Sphere001
+    7400000: PACK
+    7400002: RotateLeft
+    7400004: RotateRight
+    7400006: Shoot
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: rope023
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PACK
+      takeName: PACK
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arch_door005
+        weight: 1
+      - path: arch_window001
+        weight: 1
+      - path: arch_window001 1
+        weight: 1
+      - path: bedrock007
+        weight: 1
+      - path: cloth024
+        weight: 1
+      - path: cross024
+        weight: 1
+      - path: door007
+        weight: 1
+      - path: floor
+        weight: 1
+      - path: gear_big004
+        weight: 1
+      - path: gear_big004/bracket
+        weight: 1
+      - path: gear_small003
+        weight: 1
+      - path: ramp003
+        weight: 1
+      - path: rotator
+        weight: 1
+      - path: rotator/gear_small007
+        weight: 1
+      - path: rotator/gear_small007/gear_small002
+        weight: 1
+      - path: rotator/gear_small007/rope_coil
+        weight: 1
+      - path: rotator/gear_small007/rope_coil/controlador_rope_down
+        weight: 1
+      - path: rotator/iron_junction
+        weight: 1
+      - path: rotator/iron_junction/wood_table210
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/controlador_rope_up
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/coupling002
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/Sphere001
+        weight: 1
+      - path: rotator/iron_junction 1
+        weight: 1
+      - path: rotator/iron_junction 1/wood_table208
+        weight: 1
+      - path: rotator/iron_junction 1/wood_table208/iron_junction 6
+        weight: 1
+      - path: rotator/iron_junction 2
+        weight: 1
+      - path: rotator/iron_junction 2/wood_table209
+        weight: 1
+      - path: rotator/iron_junction 3
+        weight: 1
+      - path: rotator/rope023
+        weight: 1
+      - path: rotator/wood_table205
+        weight: 1
+      - path: rotator/wood_table205/iron_junction 4
+        weight: 1
+      - path: rotator/wood_table205/wood_table207
+        weight: 1
+      - path: rotator/wood_table205/wood_table211
+        weight: 1
+      - path: rotator/wood_table206
+        weight: 1
+      - path: rotator/wood_table318
+        weight: 1
+      - path: rotator/wood_table318/iron_junction 5
+        weight: 1
+      - path: shield004
+        weight: 1
+      - path: stick002
+        weight: 1
+      - path: tunnel003
+        weight: 1
+      - path: tunnel004
+        weight: 1
+      - path: wall008
+        weight: 1
+      - path: wood_table
+        weight: 1
+      - path: wood_table 1
+        weight: 1
+      - path: wood_table 2
+        weight: 1
+      - path: wood_table 3
+        weight: 1
+      - path: wood_table200
+        weight: 1
+      - path: wood_table310
+        weight: 1
+      - path: wood_table311
+        weight: 1
+      - path: wood_table312
+        weight: 1
+      - path: wood_table313
+        weight: 1
+      - path: wood_table314
+        weight: 1
+      - path: wood_table315
+        weight: 1
+      - path: wood_table316
+        weight: 1
+      - path: wood_table317
+        weight: 1
+      - path: wood_table884
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RotateLeft
+      takeName: PACK
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arch_door005
+        weight: 1
+      - path: arch_window001
+        weight: 1
+      - path: arch_window001 1
+        weight: 1
+      - path: bedrock007
+        weight: 1
+      - path: cloth024
+        weight: 1
+      - path: cross024
+        weight: 1
+      - path: door007
+        weight: 1
+      - path: floor
+        weight: 1
+      - path: gear_big004
+        weight: 1
+      - path: gear_big004/bracket
+        weight: 1
+      - path: gear_small003
+        weight: 1
+      - path: ramp003
+        weight: 1
+      - path: rotator
+        weight: 1
+      - path: rotator/gear_small007
+        weight: 1
+      - path: rotator/gear_small007/gear_small002
+        weight: 1
+      - path: rotator/gear_small007/rope_coil
+        weight: 1
+      - path: rotator/gear_small007/rope_coil/controlador_rope_down
+        weight: 1
+      - path: rotator/iron_junction
+        weight: 1
+      - path: rotator/iron_junction/wood_table210
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/controlador_rope_up
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/coupling002
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/Sphere001
+        weight: 1
+      - path: rotator/iron_junction 1
+        weight: 1
+      - path: rotator/iron_junction 1/wood_table208
+        weight: 1
+      - path: rotator/iron_junction 1/wood_table208/iron_junction 6
+        weight: 1
+      - path: rotator/iron_junction 2
+        weight: 1
+      - path: rotator/iron_junction 2/wood_table209
+        weight: 1
+      - path: rotator/iron_junction 3
+        weight: 1
+      - path: rotator/rope023
+        weight: 1
+      - path: rotator/wood_table205
+        weight: 1
+      - path: rotator/wood_table205/iron_junction 4
+        weight: 1
+      - path: rotator/wood_table205/wood_table207
+        weight: 1
+      - path: rotator/wood_table205/wood_table211
+        weight: 1
+      - path: rotator/wood_table206
+        weight: 1
+      - path: rotator/wood_table318
+        weight: 1
+      - path: rotator/wood_table318/iron_junction 5
+        weight: 1
+      - path: shield004
+        weight: 1
+      - path: stick002
+        weight: 1
+      - path: tunnel003
+        weight: 1
+      - path: tunnel004
+        weight: 1
+      - path: wall008
+        weight: 1
+      - path: wood_table
+        weight: 1
+      - path: wood_table 1
+        weight: 1
+      - path: wood_table 2
+        weight: 1
+      - path: wood_table 3
+        weight: 1
+      - path: wood_table200
+        weight: 1
+      - path: wood_table310
+        weight: 1
+      - path: wood_table311
+        weight: 1
+      - path: wood_table312
+        weight: 1
+      - path: wood_table313
+        weight: 1
+      - path: wood_table314
+        weight: 1
+      - path: wood_table315
+        weight: 1
+      - path: wood_table316
+        weight: 1
+      - path: wood_table317
+        weight: 1
+      - path: wood_table884
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RotateRight
+      takeName: PACK
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arch_door005
+        weight: 1
+      - path: arch_window001
+        weight: 1
+      - path: arch_window001 1
+        weight: 1
+      - path: bedrock007
+        weight: 1
+      - path: cloth024
+        weight: 1
+      - path: cross024
+        weight: 1
+      - path: door007
+        weight: 1
+      - path: floor
+        weight: 1
+      - path: gear_big004
+        weight: 1
+      - path: gear_big004/bracket
+        weight: 1
+      - path: gear_small003
+        weight: 1
+      - path: ramp003
+        weight: 1
+      - path: rotator
+        weight: 1
+      - path: rotator/gear_small007
+        weight: 1
+      - path: rotator/gear_small007/gear_small002
+        weight: 1
+      - path: rotator/gear_small007/rope_coil
+        weight: 1
+      - path: rotator/gear_small007/rope_coil/controlador_rope_down
+        weight: 1
+      - path: rotator/iron_junction
+        weight: 1
+      - path: rotator/iron_junction/wood_table210
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/controlador_rope_up
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/coupling002
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/Sphere001
+        weight: 1
+      - path: rotator/iron_junction 1
+        weight: 1
+      - path: rotator/iron_junction 1/wood_table208
+        weight: 1
+      - path: rotator/iron_junction 1/wood_table208/iron_junction 6
+        weight: 1
+      - path: rotator/iron_junction 2
+        weight: 1
+      - path: rotator/iron_junction 2/wood_table209
+        weight: 1
+      - path: rotator/iron_junction 3
+        weight: 1
+      - path: rotator/rope023
+        weight: 1
+      - path: rotator/wood_table205
+        weight: 1
+      - path: rotator/wood_table205/iron_junction 4
+        weight: 1
+      - path: rotator/wood_table205/wood_table207
+        weight: 1
+      - path: rotator/wood_table205/wood_table211
+        weight: 1
+      - path: rotator/wood_table206
+        weight: 1
+      - path: rotator/wood_table318
+        weight: 1
+      - path: rotator/wood_table318/iron_junction 5
+        weight: 1
+      - path: shield004
+        weight: 1
+      - path: stick002
+        weight: 1
+      - path: tunnel003
+        weight: 1
+      - path: tunnel004
+        weight: 1
+      - path: wall008
+        weight: 1
+      - path: wood_table
+        weight: 1
+      - path: wood_table 1
+        weight: 1
+      - path: wood_table 2
+        weight: 1
+      - path: wood_table 3
+        weight: 1
+      - path: wood_table200
+        weight: 1
+      - path: wood_table310
+        weight: 1
+      - path: wood_table311
+        weight: 1
+      - path: wood_table312
+        weight: 1
+      - path: wood_table313
+        weight: 1
+      - path: wood_table314
+        weight: 1
+      - path: wood_table315
+        weight: 1
+      - path: wood_table316
+        weight: 1
+      - path: wood_table317
+        weight: 1
+      - path: wood_table884
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Shoot
+      takeName: PACK
+      firstFrame: 100
+      lastFrame: 140.000015
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arch_door005
+        weight: 1
+      - path: arch_window001
+        weight: 1
+      - path: arch_window001 1
+        weight: 1
+      - path: bedrock007
+        weight: 1
+      - path: cloth024
+        weight: 1
+      - path: cross024
+        weight: 1
+      - path: door007
+        weight: 1
+      - path: floor
+        weight: 1
+      - path: gear_big004
+        weight: 1
+      - path: gear_big004/bracket
+        weight: 1
+      - path: gear_small003
+        weight: 1
+      - path: ramp003
+        weight: 1
+      - path: rotator
+        weight: 1
+      - path: rotator/gear_small007
+        weight: 1
+      - path: rotator/gear_small007/gear_small002
+        weight: 1
+      - path: rotator/gear_small007/rope_coil
+        weight: 1
+      - path: rotator/gear_small007/rope_coil/controlador_rope_down
+        weight: 1
+      - path: rotator/iron_junction
+        weight: 1
+      - path: rotator/iron_junction/wood_table210
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/controlador_rope_up
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/coupling002
+        weight: 1
+      - path: rotator/iron_junction/wood_table210/Box003/basket/Sphere001
+        weight: 1
+      - path: rotator/iron_junction 1
+        weight: 1
+      - path: rotator/iron_junction 1/wood_table208
+        weight: 1
+      - path: rotator/iron_junction 1/wood_table208/iron_junction 6
+        weight: 1
+      - path: rotator/iron_junction 2
+        weight: 1
+      - path: rotator/iron_junction 2/wood_table209
+        weight: 1
+      - path: rotator/iron_junction 3
+        weight: 1
+      - path: rotator/rope023
+        weight: 1
+      - path: rotator/wood_table205
+        weight: 1
+      - path: rotator/wood_table205/iron_junction 4
+        weight: 1
+      - path: rotator/wood_table205/wood_table207
+        weight: 1
+      - path: rotator/wood_table205/wood_table211
+        weight: 1
+      - path: rotator/wood_table206
+        weight: 1
+      - path: rotator/wood_table318
+        weight: 1
+      - path: rotator/wood_table318/iron_junction 5
+        weight: 1
+      - path: shield004
+        weight: 1
+      - path: stick002
+        weight: 1
+      - path: tunnel003
+        weight: 1
+      - path: tunnel004
+        weight: 1
+      - path: wall008
+        weight: 1
+      - path: wood_table
+        weight: 1
+      - path: wood_table 1
+        weight: 1
+      - path: wood_table 2
+        weight: 1
+      - path: wood_table 3
+        weight: 1
+      - path: wood_table200
+        weight: 1
+      - path: wood_table310
+        weight: 1
+      - path: wood_table311
+        weight: 1
+      - path: wood_table312
+        weight: 1
+      - path: wood_table313
+        weight: 1
+      - path: wood_table314
+        weight: 1
+      - path: wood_table315
+        weight: 1
+      - path: wood_table316
+        weight: 1
+      - path: wood_table317
+        weight: 1
+      - path: wood_table884
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

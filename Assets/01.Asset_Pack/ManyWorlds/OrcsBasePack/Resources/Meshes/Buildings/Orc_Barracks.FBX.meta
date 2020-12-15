@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: f402f054c875ce24dae8360d2e426b8e
+timeCreated: 1434721929
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: awning004
+    100002: barrel001
+    100004: Box042
+    100006: Box063
+    100008: door004
+    100010: door005
+    100012: door_metallic
+    100014: door_metallic001
+    100016: door_metallic002
+    100018: door_metallic003
+    100020: dummy
+    100022: dummy 1
+    100024: dummy 2
+    100026: fang
+    100028: fang 1
+    100030: fang 2
+    100032: fang 3
+    100034: fang 4
+    100036: fang014
+    100038: floor003
+    100040: foundation
+    100042: foundation003
+    100044: hole
+    100046: //RootNode
+    100048: post
+    100050: post 1
+    100052: post 10
+    100054: post 11
+    100056: post 12
+    100058: post 13
+    100060: post 14
+    100062: post 15
+    100064: post 16
+    100066: post 17
+    100068: post 18
+    100070: post 19
+    100072: post 2
+    100074: post 20
+    100076: post 21
+    100078: post 22
+    100080: post 23
+    100082: post 24
+    100084: post 25
+    100086: post 26
+    100088: post 27
+    100090: post 3
+    100092: post 4
+    100094: post 5
+    100096: post 6
+    100098: post 7
+    100100: post 8
+    100102: post 9
+    100104: rack
+    100106: rack 1
+    100108: rack 2
+    100110: Ring_barrel002
+    100112: rope
+    100114: rope 1
+    100116: rope 2
+    100118: rope 3
+    100120: rope_cauldron012
+    100122: rope_cauldron015
+    100124: rope_cauldron016
+    100126: rope_cauldron017
+    100128: shield
+    100130: shield001
+    100132: spear
+    100134: spear 1
+    100136: spear 2
+    100138: spear 3
+    100140: spear 4
+    100142: spear 5
+    100144: step003
+    100146: step006
+    100148: wood_table
+    100150: wood_table 1
+    100152: wood_table 2
+    100154: wood_table 3
+    100156: wood_table011
+    400000: awning004
+    400002: barrel001
+    400004: Box042
+    400006: Box063
+    400008: door004
+    400010: door005
+    400012: door_metallic
+    400014: door_metallic001
+    400016: door_metallic002
+    400018: door_metallic003
+    400020: dummy
+    400022: dummy 1
+    400024: dummy 2
+    400026: fang
+    400028: fang 1
+    400030: fang 2
+    400032: fang 3
+    400034: fang 4
+    400036: fang014
+    400038: floor003
+    400040: foundation
+    400042: foundation003
+    400044: hole
+    400046: //RootNode
+    400048: post
+    400050: post 1
+    400052: post 10
+    400054: post 11
+    400056: post 12
+    400058: post 13
+    400060: post 14
+    400062: post 15
+    400064: post 16
+    400066: post 17
+    400068: post 18
+    400070: post 19
+    400072: post 2
+    400074: post 20
+    400076: post 21
+    400078: post 22
+    400080: post 23
+    400082: post 24
+    400084: post 25
+    400086: post 26
+    400088: post 27
+    400090: post 3
+    400092: post 4
+    400094: post 5
+    400096: post 6
+    400098: post 7
+    400100: post 8
+    400102: post 9
+    400104: rack
+    400106: rack 1
+    400108: rack 2
+    400110: Ring_barrel002
+    400112: rope
+    400114: rope 1
+    400116: rope 2
+    400118: rope 3
+    400120: rope_cauldron012
+    400122: rope_cauldron015
+    400124: rope_cauldron016
+    400126: rope_cauldron017
+    400128: shield
+    400130: shield001
+    400132: spear
+    400134: spear 1
+    400136: spear 2
+    400138: spear 3
+    400140: spear 4
+    400142: spear 5
+    400144: step003
+    400146: step006
+    400148: wood_table
+    400150: wood_table 1
+    400152: wood_table 2
+    400154: wood_table 3
+    400156: wood_table011
+    2300000: awning004
+    2300002: barrel001
+    2300004: Box042
+    2300006: Box063
+    2300008: door004
+    2300010: door005
+    2300012: door_metallic
+    2300014: door_metallic001
+    2300016: door_metallic002
+    2300018: door_metallic003
+    2300020: dummy
+    2300022: dummy 1
+    2300024: dummy 2
+    2300026: fang
+    2300028: fang 1
+    2300030: fang 2
+    2300032: fang 3
+    2300034: fang 4
+    2300036: fang014
+    2300038: floor003
+    2300040: foundation
+    2300042: foundation003
+    2300044: hole
+    2300046: post
+    2300048: post 1
+    2300050: post 10
+    2300052: post 11
+    2300054: post 12
+    2300056: post 13
+    2300058: post 14
+    2300060: post 15
+    2300062: post 16
+    2300064: post 17
+    2300066: post 18
+    2300068: post 19
+    2300070: post 2
+    2300072: post 20
+    2300074: post 21
+    2300076: post 22
+    2300078: post 23
+    2300080: post 24
+    2300082: post 25
+    2300084: post 26
+    2300086: post 27
+    2300088: post 3
+    2300090: post 4
+    2300092: post 5
+    2300094: post 6
+    2300096: post 7
+    2300098: post 8
+    2300100: post 9
+    2300102: rack
+    2300104: rack 1
+    2300106: rack 2
+    2300108: Ring_barrel002
+    2300110: rope
+    2300112: rope 1
+    2300114: rope 2
+    2300116: rope 3
+    2300118: rope_cauldron012
+    2300120: rope_cauldron015
+    2300122: rope_cauldron016
+    2300124: rope_cauldron017
+    2300126: shield
+    2300128: shield001
+    2300130: spear
+    2300132: spear 1
+    2300134: spear 2
+    2300136: spear 3
+    2300138: spear 4
+    2300140: spear 5
+    2300142: step003
+    2300144: step006
+    2300146: wood_table
+    2300148: wood_table 1
+    2300150: wood_table 2
+    2300152: wood_table 3
+    2300154: wood_table011
+    3300000: awning004
+    3300002: barrel001
+    3300004: Box042
+    3300006: Box063
+    3300008: door004
+    3300010: door005
+    3300012: door_metallic
+    3300014: door_metallic001
+    3300016: door_metallic002
+    3300018: door_metallic003
+    3300020: dummy
+    3300022: dummy 1
+    3300024: dummy 2
+    3300026: fang
+    3300028: fang 1
+    3300030: fang 2
+    3300032: fang 3
+    3300034: fang 4
+    3300036: fang014
+    3300038: floor003
+    3300040: foundation
+    3300042: foundation003
+    3300044: hole
+    3300046: post
+    3300048: post 1
+    3300050: post 10
+    3300052: post 11
+    3300054: post 12
+    3300056: post 13
+    3300058: post 14
+    3300060: post 15
+    3300062: post 16
+    3300064: post 17
+    3300066: post 18
+    3300068: post 19
+    3300070: post 2
+    3300072: post 20
+    3300074: post 21
+    3300076: post 22
+    3300078: post 23
+    3300080: post 24
+    3300082: post 25
+    3300084: post 26
+    3300086: post 27
+    3300088: post 3
+    3300090: post 4
+    3300092: post 5
+    3300094: post 6
+    3300096: post 7
+    3300098: post 8
+    3300100: post 9
+    3300102: rack
+    3300104: rack 1
+    3300106: rack 2
+    3300108: Ring_barrel002
+    3300110: rope
+    3300112: rope 1
+    3300114: rope 2
+    3300116: rope 3
+    3300118: rope_cauldron012
+    3300120: rope_cauldron015
+    3300122: rope_cauldron016
+    3300124: rope_cauldron017
+    3300126: shield
+    3300128: shield001
+    3300130: spear
+    3300132: spear 1
+    3300134: spear 2
+    3300136: spear 3
+    3300138: spear 4
+    3300140: spear 5
+    3300142: step003
+    3300144: step006
+    3300146: wood_table
+    3300148: wood_table 1
+    3300150: wood_table 2
+    3300152: wood_table 3
+    3300154: wood_table011
+    4300000: post
+    4300002: post
+    4300004: post
+    4300006: Box042
+    4300008: Box063
+    4300010: fang014
+    4300012: fang
+    4300014: fang
+    4300016: fang
+    4300018: awning004
+    4300020: fang
+    4300022: fang
+    4300024: shield
+    4300026: door004
+    4300028: door_metallic
+    4300030: hole
+    4300032: door005
+    4300034: door_metallic001
+    4300036: door_metallic002
+    4300038: door_metallic003
+    4300040: post
+    4300042: post
+    4300044: barrel001
+    4300046: Ring_barrel002
+    4300048: dummy
+    4300050: rack
+    4300052: post
+    4300054: post
+    4300056: post
+    4300058: post
+    4300060: post
+    4300062: post
+    4300064: post
+    4300066: post
+    4300068: post
+    4300070: post
+    4300072: post
+    4300074: post
+    4300076: post
+    4300078: post
+    4300080: post
+    4300082: post
+    4300084: post
+    4300086: post
+    4300088: post
+    4300090: post
+    4300092: post
+    4300094: post
+    4300096: post
+    4300098: spear
+    4300100: foundation003
+    4300102: foundation
+    4300104: step003
+    4300106: step006
+    4300108: rope_cauldron012
+    4300110: floor003
+    4300112: wood_table011
+    4300114: rope
+    4300116: rope
+    4300118: rope_cauldron015
+    4300120: rope
+    4300122: rope_cauldron016
+    4300124: rope
+    4300126: rope_cauldron017
+    4300128: rack
+    4300130: dummy
+    4300132: spear
+    4300134: spear
+    4300136: spear
+    4300138: spear
+    4300140: spear
+    4300142: wood_table
+    4300144: wood_table
+    4300146: wood_table
+    4300148: wood_table
+    4300150: rack
+    4300152: dummy
+    4300154: shield001
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 3c434b113c819f64399acc89d7fb4255
+timeCreated: 1434721207
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: awning001
+    100002: axe
+    100004: fangs
+    100006: floor
+    100008: foundation
+    100010: handle_axe
+    100012: leather_ring
+    100014: leather_rting
+    100016: //RootNode
+    100018: pine001
+    100020: saw
+    100022: saw_handle
+    100024: saw_leather
+    100026: stairs001
+    100028: totem
+    100030: trnk_big
+    100032: trnk_big007
+    100034: trnk_big011
+    100036: Trunk_big
+    100038: trunks
+    100040: trunks_inside
+    100042: wood_column
+    100044: wood_pilar
+    100046: wood_table
+    100048: saw_leather_1
+    100050: saw_leather_002
+    400000: awning001
+    400002: axe
+    400004: fangs
+    400006: floor
+    400008: foundation
+    400010: handle_axe
+    400012: leather_ring
+    400014: leather_rting
+    400016: //RootNode
+    400018: pine001
+    400020: saw
+    400022: saw_handle
+    400024: saw_leather
+    400026: stairs001
+    400028: totem
+    400030: trnk_big
+    400032: trnk_big007
+    400034: trnk_big011
+    400036: Trunk_big
+    400038: trunks
+    400040: trunks_inside
+    400042: wood_column
+    400044: wood_pilar
+    400046: wood_table
+    400048: saw_leather_1
+    400050: saw_leather_002
+    2300000: awning001
+    2300002: axe
+    2300004: fangs
+    2300006: floor
+    2300008: foundation
+    2300010: handle_axe
+    2300012: leather_ring
+    2300014: leather_rting
+    2300016: pine001
+    2300018: saw
+    2300020: saw_handle
+    2300022: saw_leather
+    2300024: stairs001
+    2300026: totem
+    2300028: trnk_big
+    2300030: trnk_big007
+    2300032: trnk_big011
+    2300034: Trunk_big
+    2300036: trunks
+    2300038: trunks_inside
+    2300040: wood_column
+    2300042: wood_pilar
+    2300044: wood_table
+    2300046: saw_leather_1
+    2300048: saw_leather_002
+    3300000: awning001
+    3300002: axe
+    3300004: fangs
+    3300006: floor
+    3300008: foundation
+    3300010: handle_axe
+    3300012: leather_ring
+    3300014: leather_rting
+    3300016: pine001
+    3300018: saw
+    3300020: saw_handle
+    3300022: saw_leather
+    3300024: stairs001
+    3300026: totem
+    3300028: trnk_big
+    3300030: trnk_big007
+    3300032: trnk_big011
+    3300034: Trunk_big
+    3300036: trunks
+    3300038: trunks_inside
+    3300040: wood_column
+    3300042: wood_pilar
+    3300044: wood_table
+    3300046: saw_leather_1
+    3300048: saw_leather_002
+    4300000: axe
+    4300002: handle_axe
+    4300004: totem
+    4300006: floor
+    4300008: saw
+    4300010: saw_handle
+    4300012: saw_leather
+    4300014: Trunk_big
+    4300016: foundation
+    4300018: wood_column
+    4300020: wood_table
+    4300022: awning001
+    4300024: fangs
+    4300026: trunks_inside
+    4300028: trunks
+    4300030: pine001
+    4300032: trnk_big
+    4300034: trnk_big007
+    4300036: trnk_big011
+    4300038: stairs001
+    4300040: leather_rting
+    4300042: wood_pilar
+    4300044: leather_ring
+    4300046: saw_leather_1
+    4300048: saw_leather_002
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

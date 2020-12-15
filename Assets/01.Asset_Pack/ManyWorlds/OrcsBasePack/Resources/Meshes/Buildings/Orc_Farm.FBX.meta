@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 672283d7eddded54a9e288760fa80881
+timeCreated: 1434722021
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: barrel
+    100002: beam
+    100004: beam 1
+    100006: beam001
+    100008: beam002
+    100010: Cauldron
+    100012: Cauldron_Torus
+    100014: Cauldron_Torus001
+    100016: ceiling_trent
+    100018: Firewood
+    100020: floor001
+    100022: Grill_Stick_002
+    100024: Grill_Stick_003
+    100026: Grill_Stick_004
+    100028: mine_stones001
+    100030: //RootNode
+    100032: Plane018
+    100034: Poison
+    100036: Ring_barrel
+    100038: Ring_barrel001
+    100040: rod
+    100042: rod1
+    100044: rod_2
+    100046: rod_3
+    100048: rope_cauldron
+    100050: rope_cauldron001
+    100052: rope_cauldron002
+    100054: rope_cauldron004
+    100056: rope_cauldron005
+    100058: rope_cauldron006
+    100060: skull
+    100062: skull001
+    100064: tent
+    400000: barrel
+    400002: beam
+    400004: beam 1
+    400006: beam001
+    400008: beam002
+    400010: Cauldron
+    400012: Cauldron_Torus
+    400014: Cauldron_Torus001
+    400016: ceiling_trent
+    400018: Firewood
+    400020: floor001
+    400022: Grill_Stick_002
+    400024: Grill_Stick_003
+    400026: Grill_Stick_004
+    400028: mine_stones001
+    400030: //RootNode
+    400032: Plane018
+    400034: Poison
+    400036: Ring_barrel
+    400038: Ring_barrel001
+    400040: rod
+    400042: rod1
+    400044: rod_2
+    400046: rod_3
+    400048: rope_cauldron
+    400050: rope_cauldron001
+    400052: rope_cauldron002
+    400054: rope_cauldron004
+    400056: rope_cauldron005
+    400058: rope_cauldron006
+    400060: skull
+    400062: skull001
+    400064: tent
+    2300000: barrel
+    2300002: beam
+    2300004: beam 1
+    2300006: beam001
+    2300008: beam002
+    2300010: Cauldron
+    2300012: Cauldron_Torus
+    2300014: Cauldron_Torus001
+    2300016: ceiling_trent
+    2300018: Firewood
+    2300020: floor001
+    2300022: Grill_Stick_002
+    2300024: Grill_Stick_003
+    2300026: Grill_Stick_004
+    2300028: mine_stones001
+    2300030: Plane018
+    2300032: Poison
+    2300034: Ring_barrel
+    2300036: Ring_barrel001
+    2300038: rod
+    2300040: rod1
+    2300042: rod_2
+    2300044: rod_3
+    2300046: rope_cauldron
+    2300048: rope_cauldron001
+    2300050: rope_cauldron002
+    2300052: rope_cauldron004
+    2300054: rope_cauldron005
+    2300056: rope_cauldron006
+    2300058: skull
+    2300060: skull001
+    2300062: tent
+    3300000: barrel
+    3300002: beam
+    3300004: beam 1
+    3300006: beam001
+    3300008: beam002
+    3300010: Cauldron
+    3300012: Cauldron_Torus
+    3300014: Cauldron_Torus001
+    3300016: ceiling_trent
+    3300018: Firewood
+    3300020: floor001
+    3300022: Grill_Stick_002
+    3300024: Grill_Stick_003
+    3300026: Grill_Stick_004
+    3300028: mine_stones001
+    3300030: Plane018
+    3300032: Poison
+    3300034: Ring_barrel
+    3300036: Ring_barrel001
+    3300038: rod
+    3300040: rod1
+    3300042: rod_2
+    3300044: rod_3
+    3300046: rope_cauldron
+    3300048: rope_cauldron001
+    3300050: rope_cauldron002
+    3300052: rope_cauldron004
+    3300054: rope_cauldron005
+    3300056: rope_cauldron006
+    3300058: skull
+    3300060: skull001
+    3300062: tent
+    4300000: Cauldron
+    4300002: Cauldron_Torus
+    4300004: rope_cauldron
+    4300006: Cauldron_Torus001
+    4300008: Grill_Stick_002
+    4300010: Firewood
+    4300012: rod1
+    4300014: rod
+    4300016: rod_3
+    4300018: rod_2
+    4300020: skull
+    4300022: barrel
+    4300024: tent
+    4300026: ceiling_trent
+    4300028: beam
+    4300030: beam
+    4300032: Ring_barrel
+    4300034: Ring_barrel001
+    4300036: beam001
+    4300038: beam002
+    4300040: Grill_Stick_003
+    4300042: Grill_Stick_004
+    4300044: rope_cauldron001
+    4300046: rope_cauldron002
+    4300048: rope_cauldron004
+    4300050: skull001
+    4300052: mine_stones001
+    4300054: rope_cauldron005
+    4300056: rope_cauldron006
+    4300058: Plane018
+    4300060: Poison
+    4300062: floor001
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

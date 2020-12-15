@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 56ede067d2d829142bdae3de0167c9ca
+timeCreated: 1431082963
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: axe_handle
+    100002: axe_head
+    100004: bedrock011
+    100006: joint
+    100008: joint 1
+    100010: joint 10
+    100012: joint 11
+    100014: joint 2
+    100016: joint 3
+    100018: joint 4
+    100020: joint 5
+    100022: joint 6
+    100024: joint 7
+    100026: joint 8
+    100028: joint 9
+    100030: joint002
+    100032: large_wood053
+    100034: large_wood054
+    100036: lumber_saw
+    100038: lumber_saw_base
+    100040: //RootNode
+    100042: pine001
+    100044: pine001 1
+    100046: roof001
+    100048: table001
+    100050: trnk_big
+    100052: trnk_big001
+    100054: trunk014
+    100056: trunk_cut
+    100058: trunk_cut001
+    100060: trunk_cut002
+    100062: trunk_cut003
+    100064: trunk_cut004
+    100066: trunk_cut005
+    100068: trunk_cut006
+    100070: trunk_cut007
+    100072: wood_stairs
+    100074: wood_table135
+    100076: wood_table136
+    100078: wood_table137
+    100080: wood_table217
+    100082: wood_table232
+    100084: wood_table351
+    100086: wood_table352
+    100088: wood_table353
+    100090: wood_table354
+    100092: wood_table355
+    100094: wood_table356
+    100096: wood_table357
+    100098: wood_table358
+    100100: wood_table359
+    100102: wood_table360
+    100104: wood_table361
+    100106: wood_table362
+    100108: wood_table363
+    100110: wood_table364
+    100112: wood_table365
+    100114: wood_table366
+    100116: wood_table367
+    100118: wood_table368
+    100120: wood_table369
+    100122: wood_table370
+    100124: wood_table371
+    100126: wood_table372
+    100128: wood_table373
+    100130: wood_table374
+    100132: wood_table375
+    100134: wood_table376
+    100136: wood_table377
+    100138: wood_table378
+    100140: anvil
+    100142: bedrock
+    100144: Box023
+    100146: Box032
+    100148: coal
+    100150: coal_plane
+    100152: door002
+    100154: door003
+    100156: forge
+    100158: large_wood012
+    100160: large_wood013
+    100162: railing
+    100164: shield
+    100166: shield001
+    100168: shield002
+    100170: shield003
+    100172: smokestack
+    100174: sword002
+    100176: sword003
+    100178: table
+    100180: Torus003
+    100182: Torus004
+    100184: trunk012
+    100186: wall
+    100188: wall 1
+    100190: window008
+    100192: wood_table118
+    100194: wood_table119
+    100196: wood_table120
+    100198: wood_table121
+    100200: wood_table123
+    100202: wood_table124
+    100204: wood_table126
+    100206: wood_table127
+    100208: wood_table128
+    100210: wood_table129
+    100212: wood_table130
+    100214: wood_table131
+    100216: wood_table132
+    100218: wood_table133
+    100220: wood_table134
+    100222: wood_window006
+    100224: wood_window007
+    100226: wood_window008
+    100228: wood_window009
+    100230: wood_window011
+    100232: wood_window012
+    100234: wood_window013
+    100236: wood_window014
+    100238: wood_window015
+    100240: wood_window016
+    100242: wood_window017
+    100244: wood_window018
+    100246: wood_window019
+    400000: axe_handle
+    400002: axe_head
+    400004: bedrock011
+    400006: joint
+    400008: joint 1
+    400010: joint 10
+    400012: joint 11
+    400014: joint 2
+    400016: joint 3
+    400018: joint 4
+    400020: joint 5
+    400022: joint 6
+    400024: joint 7
+    400026: joint 8
+    400028: joint 9
+    400030: joint002
+    400032: large_wood053
+    400034: large_wood054
+    400036: lumber_saw
+    400038: lumber_saw_base
+    400040: //RootNode
+    400042: pine001
+    400044: pine001 1
+    400046: roof001
+    400048: table001
+    400050: trnk_big
+    400052: trnk_big001
+    400054: trunk014
+    400056: trunk_cut
+    400058: trunk_cut001
+    400060: trunk_cut002
+    400062: trunk_cut003
+    400064: trunk_cut004
+    400066: trunk_cut005
+    400068: trunk_cut006
+    400070: trunk_cut007
+    400072: wood_stairs
+    400074: wood_table135
+    400076: wood_table136
+    400078: wood_table137
+    400080: wood_table217
+    400082: wood_table232
+    400084: wood_table351
+    400086: wood_table352
+    400088: wood_table353
+    400090: wood_table354
+    400092: wood_table355
+    400094: wood_table356
+    400096: wood_table357
+    400098: wood_table358
+    400100: wood_table359
+    400102: wood_table360
+    400104: wood_table361
+    400106: wood_table362
+    400108: wood_table363
+    400110: wood_table364
+    400112: wood_table365
+    400114: wood_table366
+    400116: wood_table367
+    400118: wood_table368
+    400120: wood_table369
+    400122: wood_table370
+    400124: wood_table371
+    400126: wood_table372
+    400128: wood_table373
+    400130: wood_table374
+    400132: wood_table375
+    400134: wood_table376
+    400136: wood_table377
+    400138: wood_table378
+    400140: anvil
+    400142: bedrock
+    400144: Box023
+    400146: Box032
+    400148: coal
+    400150: coal_plane
+    400152: door002
+    400154: door003
+    400156: forge
+    400158: large_wood012
+    400160: large_wood013
+    400162: railing
+    400164: shield
+    400166: shield001
+    400168: shield002
+    400170: shield003
+    400172: smokestack
+    400174: sword002
+    400176: sword003
+    400178: table
+    400180: Torus003
+    400182: Torus004
+    400184: trunk012
+    400186: wall
+    400188: wall 1
+    400190: window008
+    400192: wood_table118
+    400194: wood_table119
+    400196: wood_table120
+    400198: wood_table121
+    400200: wood_table123
+    400202: wood_table124
+    400204: wood_table126
+    400206: wood_table127
+    400208: wood_table128
+    400210: wood_table129
+    400212: wood_table130
+    400214: wood_table131
+    400216: wood_table132
+    400218: wood_table133
+    400220: wood_table134
+    400222: wood_window006
+    400224: wood_window007
+    400226: wood_window008
+    400228: wood_window009
+    400230: wood_window011
+    400232: wood_window012
+    400234: wood_window013
+    400236: wood_window014
+    400238: wood_window015
+    400240: wood_window016
+    400242: wood_window017
+    400244: wood_window018
+    400246: wood_window019
+    2300000: axe_handle
+    2300002: axe_head
+    2300004: bedrock011
+    2300006: joint
+    2300008: joint 1
+    2300010: joint 10
+    2300012: joint 11
+    2300014: joint 2
+    2300016: joint 3
+    2300018: joint 4
+    2300020: joint 5
+    2300022: joint 6
+    2300024: joint 7
+    2300026: joint 8
+    2300028: joint 9
+    2300030: joint002
+    2300032: large_wood053
+    2300034: large_wood054
+    2300036: lumber_saw
+    2300038: lumber_saw_base
+    2300040: pine001
+    2300042: pine001 1
+    2300044: roof001
+    2300046: table001
+    2300048: trnk_big
+    2300050: trnk_big001
+    2300052: trunk014
+    2300054: trunk_cut
+    2300056: trunk_cut001
+    2300058: trunk_cut002
+    2300060: trunk_cut003
+    2300062: trunk_cut004
+    2300064: trunk_cut005
+    2300066: trunk_cut006
+    2300068: trunk_cut007
+    2300070: wood_stairs
+    2300072: wood_table135
+    2300074: wood_table136
+    2300076: wood_table137
+    2300078: wood_table217
+    2300080: wood_table232
+    2300082: wood_table351
+    2300084: wood_table352
+    2300086: wood_table353
+    2300088: wood_table354
+    2300090: wood_table355
+    2300092: wood_table356
+    2300094: wood_table357
+    2300096: wood_table358
+    2300098: wood_table359
+    2300100: wood_table360
+    2300102: wood_table361
+    2300104: wood_table362
+    2300106: wood_table363
+    2300108: wood_table364
+    2300110: wood_table365
+    2300112: wood_table366
+    2300114: wood_table367
+    2300116: wood_table368
+    2300118: wood_table369
+    2300120: wood_table370
+    2300122: wood_table371
+    2300124: wood_table372
+    2300126: wood_table373
+    2300128: wood_table374
+    2300130: wood_table375
+    2300132: wood_table376
+    2300134: wood_table377
+    2300136: wood_table378
+    2300138: anvil
+    2300140: bedrock
+    2300142: Box023
+    2300144: Box032
+    2300146: coal
+    2300148: coal_plane
+    2300150: door002
+    2300152: door003
+    2300154: forge
+    2300156: large_wood012
+    2300158: large_wood013
+    2300160: railing
+    2300162: shield
+    2300164: shield001
+    2300166: shield002
+    2300168: shield003
+    2300170: smokestack
+    2300172: sword002
+    2300174: sword003
+    2300176: table
+    2300178: Torus003
+    2300180: Torus004
+    2300182: trunk012
+    2300184: wall
+    2300186: wall 1
+    2300188: window008
+    2300190: wood_table118
+    2300192: wood_table119
+    2300194: wood_table120
+    2300196: wood_table121
+    2300198: wood_table123
+    2300200: wood_table124
+    2300202: wood_table126
+    2300204: wood_table127
+    2300206: wood_table128
+    2300208: wood_table129
+    2300210: wood_table130
+    2300212: wood_table131
+    2300214: wood_table132
+    2300216: wood_table133
+    2300218: wood_table134
+    2300220: wood_window006
+    2300222: wood_window007
+    2300224: wood_window008
+    2300226: wood_window009
+    2300228: wood_window011
+    2300230: wood_window012
+    2300232: wood_window013
+    2300234: wood_window014
+    2300236: wood_window015
+    2300238: wood_window016
+    2300240: wood_window017
+    2300242: wood_window018
+    2300244: wood_window019
+    3300000: axe_handle
+    3300002: axe_head
+    3300004: bedrock011
+    3300006: joint
+    3300008: joint 1
+    3300010: joint 10
+    3300012: joint 11
+    3300014: joint 2
+    3300016: joint 3
+    3300018: joint 4
+    3300020: joint 5
+    3300022: joint 6
+    3300024: joint 7
+    3300026: joint 8
+    3300028: joint 9
+    3300030: joint002
+    3300032: large_wood053
+    3300034: large_wood054
+    3300036: lumber_saw
+    3300038: lumber_saw_base
+    3300040: pine001
+    3300042: pine001 1
+    3300044: roof001
+    3300046: table001
+    3300048: trnk_big
+    3300050: trnk_big001
+    3300052: trunk014
+    3300054: trunk_cut
+    3300056: trunk_cut001
+    3300058: trunk_cut002
+    3300060: trunk_cut003
+    3300062: trunk_cut004
+    3300064: trunk_cut005
+    3300066: trunk_cut006
+    3300068: trunk_cut007
+    3300070: wood_stairs
+    3300072: wood_table135
+    3300074: wood_table136
+    3300076: wood_table137
+    3300078: wood_table217
+    3300080: wood_table232
+    3300082: wood_table351
+    3300084: wood_table352
+    3300086: wood_table353
+    3300088: wood_table354
+    3300090: wood_table355
+    3300092: wood_table356
+    3300094: wood_table357
+    3300096: wood_table358
+    3300098: wood_table359
+    3300100: wood_table360
+    3300102: wood_table361
+    3300104: wood_table362
+    3300106: wood_table363
+    3300108: wood_table364
+    3300110: wood_table365
+    3300112: wood_table366
+    3300114: wood_table367
+    3300116: wood_table368
+    3300118: wood_table369
+    3300120: wood_table370
+    3300122: wood_table371
+    3300124: wood_table372
+    3300126: wood_table373
+    3300128: wood_table374
+    3300130: wood_table375
+    3300132: wood_table376
+    3300134: wood_table377
+    3300136: wood_table378
+    3300138: anvil
+    3300140: bedrock
+    3300142: Box023
+    3300144: Box032
+    3300146: coal
+    3300148: coal_plane
+    3300150: door002
+    3300152: door003
+    3300154: forge
+    3300156: large_wood012
+    3300158: large_wood013
+    3300160: railing
+    3300162: shield
+    3300164: shield001
+    3300166: shield002
+    3300168: shield003
+    3300170: smokestack
+    3300172: sword002
+    3300174: sword003
+    3300176: table
+    3300178: Torus003
+    3300180: Torus004
+    3300182: trunk012
+    3300184: wall
+    3300186: wall 1
+    3300188: window008
+    3300190: wood_table118
+    3300192: wood_table119
+    3300194: wood_table120
+    3300196: wood_table121
+    3300198: wood_table123
+    3300200: wood_table124
+    3300202: wood_table126
+    3300204: wood_table127
+    3300206: wood_table128
+    3300208: wood_table129
+    3300210: wood_table130
+    3300212: wood_table131
+    3300214: wood_table132
+    3300216: wood_table133
+    3300218: wood_table134
+    3300220: wood_window006
+    3300222: wood_window007
+    3300224: wood_window008
+    3300226: wood_window009
+    3300228: wood_window011
+    3300230: wood_window012
+    3300232: wood_window013
+    3300234: wood_window014
+    3300236: wood_window015
+    3300238: wood_window016
+    3300240: wood_window017
+    3300242: wood_window018
+    3300244: wood_window019
+    4300000: wood_table351
+    4300002: joint
+    4300004: joint
+    4300006: joint
+    4300008: wood_table135
+    4300010: joint
+    4300012: joint
+    4300014: wood_table136
+    4300016: wood_table137
+    4300018: roof001
+    4300020: joint
+    4300022: wood_table352
+    4300024: joint
+    4300026: wood_table353
+    4300028: wood_table354
+    4300030: joint
+    4300032: joint
+    4300034: wood_table355
+    4300036: joint
+    4300038: wood_table356
+    4300040: joint
+    4300042: wood_table357
+    4300044: bedrock011
+    4300046: wood_table358
+    4300048: wood_table359
+    4300050: trunk014
+    4300052: wood_table360
+    4300054: pine001
+    4300056: lumber_saw_base
+    4300058: table001
+    4300060: lumber_saw
+    4300062: trnk_big
+    4300064: joint
+    4300066: wood_table217
+    4300068: wood_table361
+    4300070: wood_table362
+    4300072: wood_table363
+    4300074: wood_table364
+    4300076: wood_table365
+    4300078: wood_table366
+    4300080: wood_table367
+    4300082: wood_table368
+    4300084: wood_table232
+    4300086: wood_table369
+    4300088: wood_table370
+    4300090: wood_table371
+    4300092: wood_table372
+    4300094: wood_table373
+    4300096: wood_table374
+    4300098: wood_table375
+    4300100: wood_table376
+    4300102: wood_table377
+    4300104: wood_table378
+    4300106: large_wood053
+    4300108: pine001
+    4300110: large_wood054
+    4300112: wood_stairs
+    4300114: trunk_cut
+    4300116: trunk_cut001
+    4300118: trunk_cut002
+    4300120: trunk_cut003
+    4300122: trunk_cut004
+    4300124: trunk_cut005
+    4300126: trunk_cut006
+    4300128: trunk_cut007
+    4300130: trnk_big001
+    4300132: axe_handle
+    4300134: axe_head
+    4300136: joint002
+    4300138: smokestack
+    4300140: bedrock
+    4300142: table
+    4300144: anvil
+    4300146: large_wood012
+    4300148: wood_table118
+    4300150: wall
+    4300152: forge
+    4300154: wood_table119
+    4300156: wood_table120
+    4300158: large_wood013
+    4300160: wood_window006
+    4300162: window008
+    4300164: wood_window007
+    4300166: wood_window008
+    4300168: wood_window009
+    4300170: wood_window011
+    4300172: wall
+    4300174: wood_table121
+    4300176: wood_table123
+    4300178: wood_table124
+    4300180: shield001
+    4300182: shield002
+    4300184: shield003
+    4300186: wood_table126
+    4300188: Box023
+    4300190: wood_table127
+    4300192: door002
+    4300194: wood_window012
+    4300196: wood_table128
+    4300198: wood_table129
+    4300200: wood_table130
+    4300202: wood_table131
+    4300204: wood_table132
+    4300206: wood_table133
+    4300208: wood_window013
+    4300210: wood_window014
+    4300212: wood_table134
+    4300214: railing
+    4300216: shield
+    4300218: Torus003
+    4300220: wood_window015
+    4300222: wood_window016
+    4300224: coal_plane
+    4300226: coal
+    4300228: Box032
+    4300230: trunk012
+    4300232: door003
+    4300234: wood_window017
+    4300236: wood_window018
+    4300238: wood_window019
+    4300240: sword002
+    4300242: Torus004
+    4300244: sword003
+    7400000: PACK
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
